@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2030037996217811388",
+    "created_at": "2026-03-06T22:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T23:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030048384627716277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1534773109940789248",
+          "start": 0,
+          "username": "rainchngshainn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030048384627716277",
+    "in_reply_to_user_id": "1534773109940789248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030037996217811388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainchngshainn 贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2030037991939526657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwkzE4aUAETy5i.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2030037996217811388",
+        "created_at": "2026-03-06T22:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T23:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030048384627716277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534773109940789248",
+              "start": 0,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030048384627716277",
+        "in_reply_to_user_id": "1534773109940789248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030037996217811388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainchngshainn 贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030037991939526657"
+          ]
+        },
+        "author_id": "1534773109940789248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2030037996217811388",
+        "created_at": "2026-03-06T21:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T22:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030037996217811388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/5xOsQ2rHW9"
+            },
+            {
+              "display_url": "pic.x.com/VHeQVM0QSa",
+              "end": 64,
+              "expanded_url": "https://x.com/rainchngshainn/status/2030037996217811388/photo/1",
+              "media_key": "3_2030037991939526657",
+              "start": 41,
+              "url": "https://t.co/VHeQVM0QSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030037996217811388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/5xOsQ2rHW9 https://t.co/VHeQVM0QSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 169,
+          "like_count": 392,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 144
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的mtf ≽^•⩊•^≼\n🇨🇦 大一生物在读，分享一些日常, \n中/英/日, \nよろしくお願い！",
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 436,
+          "like_count": 3357,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 416
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      }
+    ]
+  }
+}

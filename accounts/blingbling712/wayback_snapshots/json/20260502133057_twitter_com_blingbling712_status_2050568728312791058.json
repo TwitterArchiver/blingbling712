@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2050179123956584779",
+    "created_at": "2026-05-02T13:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050568728312791058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "CatherinaMeow"
+        },
+        {
+          "end": 31,
+          "id": "866092386694217728",
+          "start": 15,
+          "username": "dungeon_lab_toy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050568728312791058",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050544149200503249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatherinaMeow @dungeon_lab_toy 呜呜好羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050544149200503249].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050544149200503249",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050544149200503249"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2050179123956584779",
+        "created_at": "2026-05-02T13:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050568728312791058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 31,
+              "id": "866092386694217728",
+              "start": 15,
+              "username": "dungeon_lab_toy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050568728312791058",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050544149200503249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @dungeon_lab_toy 呜呜好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 349,
+          "like_count": 9461,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1354
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜做教育学科研还能画电路板子的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7432,
+          "following_count": 1103,
+          "like_count": 88150,
+          "listed_count": 22,
+          "media_count": 2202,
+          "tweet_count": 26374
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22876,
+          "following_count": 160,
+          "like_count": 92,
+          "listed_count": 28,
+          "media_count": 43,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      }
+    ]
+  }
+}

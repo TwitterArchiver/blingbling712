@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2034001332537844036",
+    "created_at": "2026-03-17T20:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T21:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034001332537844036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880109814241746944",
+          "start": 3,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034001332537844036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033930633802653759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fallenleavesw: 剪头？剪什么头？身体发肤受之父母没听过吗？\n\n啊？父母点头了？\n\n你在祠堂里跪着，问问列祖列宗答不答应！大点声！你看看那灵牌上哪几个不留头发？你看着族谱再说一次！\n\n取其精华去其糟粕？\n\n孔老二，哦不是孔夫子是糟粕吗，啊？儒家文化领先马克思…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2034001332537844036",
+        "created_at": "2026-03-17T20:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034001332537844036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880109814241746944",
+              "start": 3,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034001332537844036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033930633802653759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fallenleavesw: 剪头？剪什么头？身体发肤受之父母没听过吗？\n\n啊？父母点头了？\n\n你在祠堂里跪着，问问列祖列宗答不答应！大点声！你看看那灵牌上哪几个不留头发？你看着族谱再说一次！\n\n取其精华去其糟粕？\n\n孔老二，哦不是孔夫子是糟粕吗，啊？儒家文化领先马克思…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880109814241746944",
+        "conversation_id": "2033930633802653759",
+        "created_at": "2026-03-17T15:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033930633802653759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033930633802653759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "剪头？剪什么头？身体发肤受之父母没听过吗？\n\n啊？父母点头了？\n\n你在祠堂里跪着，问问列祖列宗答不答应！大点声！你看看那灵牌上哪几个不留头发？你看着族谱再说一次！\n\n取其精华去其糟粕？\n\n孔老二，哦不是孔夫子是糟粕吗，啊？儒家文化领先马克思懂吗？你看孔子孟子哪个不留头发还扎丸子头？\n\n什么？族谱被烧了，孔庙给砸了？那你和我说什么博大精深伤风败俗啊文化传承啊😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "剪头？剪什么头？身体发肤受之父母没听过吗？\n\n啊？父母点头了？\n\n你在祠堂里跪着，问问列祖列宗答不答应！大点声！你看看那灵牌上哪几个不留头发？你看着族谱再说一次！\n\n取其精华去其糟粕？\n\n孔老二，哦不是孔夫子是糟粕吗，啊？儒家文化领先马克思懂吗？你看孔子孟子哪个不留头发还扎丸子头？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 200,
+          "like_count": 1935,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 403
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "會和雪一起歸天",
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993024820426985473/tnWOr9SV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 591,
+          "like_count": 28103,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 5403
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

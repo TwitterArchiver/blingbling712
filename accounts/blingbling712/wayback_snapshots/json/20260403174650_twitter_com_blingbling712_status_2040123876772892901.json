@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2040080078974157145",
+    "created_at": "2026-04-03T17:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040123876772892901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808604308163940352",
+          "start": 0,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040123876772892901",
+    "in_reply_to_user_id": "1808604308163940352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040080078974157145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici20120712 （沉默）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-03T17:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040123876772892901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808604308163940352",
+              "start": 0,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040123876772892901",
+        "in_reply_to_user_id": "1808604308163940352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici20120712 （沉默）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-03T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080078974157145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040080078974157145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 49242,
+          "like_count": 319,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，如果男孩子小时候不是手冲出来的是压床出来的，长大了就会变成小男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 253,
+          "like_count": 4295,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 682
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70129,
+          "following_count": 102,
+          "like_count": 858,
+          "listed_count": 181,
+          "media_count": 731,
+          "tweet_count": 1311
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

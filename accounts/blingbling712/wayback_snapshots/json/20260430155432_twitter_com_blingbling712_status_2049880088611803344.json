@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2049690764389863916",
+    "created_at": "2026-04-30T15:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049880088611803344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049880088611803344",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049690764389863916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 还好我出柜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2049690764389863916",
+        "created_at": "2026-04-30T15:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049880088611803344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049880088611803344",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049690764389863916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 还好我出柜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2049690764389863916",
+        "created_at": "2026-04-30T03:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049690764389863916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049690764389863916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14782,
+          "like_count": 162,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "夏天快到了\n又到了药娘炸柜的季节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 332,
+          "like_count": 8791,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1267
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/psycherabbii1",
+                "start": 0,
+                "url": "https://t.co/ml1uIGyAg5"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1405,
+          "like_count": 11366,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/ml1uIGyAg5",
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

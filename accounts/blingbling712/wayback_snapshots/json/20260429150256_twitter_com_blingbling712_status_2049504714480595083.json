@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2049265147357831256",
+    "created_at": "2026-04-29T15:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049504714480595083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049504714480595083",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049265147357831256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 还真是（）感觉那些受欢迎的人反而相处不太舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2049265147357831256",
+        "created_at": "2026-04-29T15:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049504714480595083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049504714480595083",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049265147357831256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 还真是（）感觉那些受欢迎的人反而相处不太舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2049265147357831256",
+        "created_at": "2026-04-28T23:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049265147357831256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/servalcandle/status/2049263175271657734",
+              "start": 158,
+              "url": "https://t.co/1VjSefIrVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049265147357831256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1192,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049263175271657734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是从小到大都这样（\n从上学的时候在班里到现在_(:з」∠)_\n\n只要我自己不讨厌\n那就是谁被讨厌最多笨猫就喜欢找谁贴贴\n\n你或许在那边获得众人吹捧\n\n但当烂番茄臭鸡蛋把你当成新的目标时\n你就知道有个笨猫该来了(＞人＜;)\n\n真的很讨厌那些Popular kid\n讨厌到故意去骂他们\n\n大概就是笨猫的边缘人命运了 https://t.co/1VjSefIrVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 327,
+          "like_count": 8637,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1228
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33885,
+          "following_count": 417,
+          "like_count": 235139,
+          "listed_count": 106,
+          "media_count": 9110,
+          "tweet_count": 59289
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

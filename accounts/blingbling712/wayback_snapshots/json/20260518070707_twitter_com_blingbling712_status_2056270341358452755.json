@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056267082913009664",
+        "3_2056267082908753920",
+        "3_2056267082904510464"
+      ],
+      "media_source_tweet_id": [
+        "2056267090915717391",
+        "2056267090915717391",
+        "2056267090915717391"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "conversation_id": "2056270341358452755",
+    "created_at": "2026-05-18T07:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056270341358452755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qHiW2gDA1",
+          "end": 136,
+          "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+          "media_key": "3_2056267082913009664",
+          "start": 113,
+          "url": "https://t.co/5qHiW2gDA1"
+        },
+        {
+          "display_url": "pic.x.com/5qHiW2gDA1",
+          "end": 136,
+          "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+          "media_key": "3_2056267082908753920",
+          "start": 113,
+          "url": "https://t.co/5qHiW2gDA1"
+        },
+        {
+          "display_url": "pic.x.com/5qHiW2gDA1",
+          "end": 136,
+          "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+          "media_key": "3_2056267082904510464",
+          "start": 113,
+          "url": "https://t.co/5qHiW2gDA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056270341358452755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056267090915717391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 我日你妈 这个tg上挂我名字的是骗子 我草泥马\n这个B拿老娘照片骗人收门槛卖黄色 还开个频道群开禁言 这里面还这么多人 我服了\n友友宝子们求转转rt免得有人被骗了 求帮帮忙把这个B人和群举报了 https://t.co/5qHiW2gDA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056267082913009664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlUBHBb0AAWSk_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056267082908753920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlUBHAa4AA7hEK.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056267082904510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlUBG_aIAACPl7.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056267082913009664",
+            "3_2056267082908753920",
+            "3_2056267082904510464"
+          ],
+          "media_source_tweet_id": [
+            "2056267090915717391",
+            "2056267090915717391",
+            "2056267090915717391"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "conversation_id": "2056270341358452755",
+        "created_at": "2026-05-18T07:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056270341358452755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 136,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082913009664",
+              "start": 113,
+              "url": "https://t.co/5qHiW2gDA1"
+            },
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 136,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082908753920",
+              "start": 113,
+              "url": "https://t.co/5qHiW2gDA1"
+            },
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 136,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082904510464",
+              "start": 113,
+              "url": "https://t.co/5qHiW2gDA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056270341358452755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056267090915717391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 我日你妈 这个tg上挂我名字的是骗子 我草泥马\n这个B拿老娘照片骗人收门槛卖黄色 还开个频道群开禁言 这里面还这么多人 我服了\n友友宝子们求转转rt免得有人被骗了 求帮帮忙把这个B人和群举报了 https://t.co/5qHiW2gDA1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056267082913009664",
+            "3_2056267082908753920",
+            "3_2056267082904510464"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056267090915717391",
+        "created_at": "2026-05-18T06:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056267090915717391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 120,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082913009664",
+              "start": 97,
+              "url": "https://t.co/5qHiW2gDA1"
+            },
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 120,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082908753920",
+              "start": 97,
+              "url": "https://t.co/5qHiW2gDA1"
+            },
+            {
+              "display_url": "pic.x.com/5qHiW2gDA1",
+              "end": 120,
+              "expanded_url": "https://x.com/LanziiLove/status/2056267090915717391/photo/1",
+              "media_key": "3_2056267082904510464",
+              "start": 97,
+              "url": "https://t.co/5qHiW2gDA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056267090915717391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 165,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我日你妈 这个tg上挂我名字的是骗子 我草泥马\n这个B拿老娘照片骗人收门槛卖黄色 还开个频道群开禁言 这里面还这么多人 我服了\n友友宝子们求转转rt免得有人被骗了 求帮帮忙把这个B人和群举报了 https://t.co/5qHiW2gDA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 383,
+          "like_count": 11391,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 1554
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向 仅B站推特抖音有号 tg上的是骗子！🏠我终生的爱人然然@dexy0306 是纯爱哦❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24288,
+          "following_count": 1166,
+          "like_count": 2378,
+          "listed_count": 75,
+          "media_count": 429,
+          "tweet_count": 2287
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

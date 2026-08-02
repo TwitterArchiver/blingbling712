@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027656317461270530"
+      ],
+      "media_source_tweet_id": [
+        "2027656323484283364"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027700465803169958",
+    "created_at": "2026-02-28T11:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027700465803169958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2007397795532333056",
+          "start": 3,
+          "username": "shaoxiancao1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xf4QX4Uyju",
+          "end": 70,
+          "expanded_url": "https://x.com/shaoxiancao1314/status/2027656323484283364/photo/1",
+          "media_key": "3_2027656317461270530",
+          "start": 47,
+          "url": "https://t.co/Xf4QX4Uyju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027700465803169958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027656323484283364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaoxiancao1314: 有人权衡利弊放弃你 有人蠢笨到擦干眼泪也要继续爱你 https://t.co/Xf4QX4Uyju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027656317461270530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOurYDbEAI7xXb.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027656317461270530"
+          ],
+          "media_source_tweet_id": [
+            "2027656323484283364"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027700465803169958",
+        "created_at": "2026-02-28T11:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027700465803169958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2007397795532333056",
+              "start": 3,
+              "username": "shaoxiancao1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf4QX4Uyju",
+              "end": 70,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2027656323484283364/photo/1",
+              "media_key": "3_2027656317461270530",
+              "start": 47,
+              "url": "https://t.co/Xf4QX4Uyju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027700465803169958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027656323484283364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shaoxiancao1314: 有人权衡利弊放弃你 有人蠢笨到擦干眼泪也要继续爱你 https://t.co/Xf4QX4Uyju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027656317461270530"
+          ]
+        },
+        "author_id": "2007397795532333056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027656323484283364",
+        "created_at": "2026-02-28T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027656323484283364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xf4QX4Uyju",
+              "end": 49,
+              "expanded_url": "https://x.com/shaoxiancao1314/status/2027656323484283364/photo/1",
+              "media_key": "3_2027656317461270530",
+              "start": 26,
+              "url": "https://t.co/Xf4QX4Uyju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027656323484283364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1753,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人权衡利弊放弃你 有人蠢笨到擦干眼泪也要继续爱你 https://t.co/Xf4QX4Uyju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 126,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "10倍凝胶请联系TG https://t.co/eQ5f55oGxr丨\nmtf地雷系女子丨09年161cm药娘丨曾20小时内极限逃离扭转机构丨坐标郑州丨照片在亮点丨对象兼闺蜜@NomtfYuwen丨姐姐@Delusions6515 @Snegur0chk 丨纯绿交友🚪18私信口令 同类免丨蓝V互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "NomtfYuwen"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Delusions6515"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Snegur0chk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shaoxiancao1314",
+                "end": 34,
+                "expanded_url": "http://t.me/shaoxiancao1314",
+                "start": 11,
+                "url": "https://t.co/eQ5f55oGxr"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "location": "坐在唐毓文无敌几把上",
+        "name": "烧仙草🍥🏳️‍⚧️（出10倍凝胶）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007399225236361216/pD-sGP7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 431,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 220
+        },
+        "username": "shaoxiancao1314",
+        "verified": true
+      }
+    ]
+  }
+}

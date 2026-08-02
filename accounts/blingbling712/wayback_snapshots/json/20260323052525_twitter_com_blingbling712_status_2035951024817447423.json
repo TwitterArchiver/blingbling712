@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2035951024817447423",
+    "created_at": "2026-03-23T05:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T06:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035951024817447423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035951024817447423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035919764674191837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。… https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102005,
+        "height": 1920,
+        "media_key": "13_2035918263503466496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035918263503466496/img/JSsGO2RamL41I3PN.jpg",
+        "public_metrics": {
+          "view_count": 75779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/pl/2I5x6PLXly3yHtjm.m3u8?v=9f9"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/1080x1920/SOJAi55vEIABnION.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/720x1280/eHer08XvlRBsnXTj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/480x852/yMJ81Go7lH5fI4_o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035918263503466496/vid/avc1/320x568/3ImUJIuohWvySZsk.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2035951024817447423",
+        "created_at": "2026-03-23T05:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035951024817447423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035951024817447423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035919764674191837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。… https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035918263503466496"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2035919764674191837",
+        "created_at": "2026-03-23T03:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035919764674191837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMNNa5PYZu",
+              "end": 137,
+              "expanded_url": "https://x.com/igeekbb/status/2035919764674191837/video/1",
+              "media_key": "13_2035918263503466496",
+              "start": 114,
+              "url": "https://t.co/WMNNa5PYZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035919764674191837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。\n\n武汉光谷职业学院知情人表示：女装大佬是介绍给黑衣男自己“表妹”，实际“表妹”账号是自己。聊上头就表白了……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 163547,
+          "like_count": 365,
+          "quote_count": 6,
+          "reply_count": 77,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己压力大的都来看看这位男生，昨天，他的室友穿成小蛋糕，在男生宿舍楼下，当着同学和老师的面向自己表白，一开始男生还好奇是哪位女生，凑近一看吓得连连后退，当他意识到不对劲的时候，已经为时已晚，最后被舍友一个公主抱就给抱走了。 https://t.co/WMNNa5PYZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 225,
+          "like_count": 2678,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 501
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68617,
+          "following_count": 1,
+          "like_count": 12691,
+          "listed_count": 293,
+          "media_count": 6735,
+          "tweet_count": 10628
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

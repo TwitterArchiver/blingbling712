@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2032333398057091558",
+    "created_at": "2026-03-13T23:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T00:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032599747932897735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032599747932897735",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032333398057091558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 个人口感觉得无糖可乐比原味好喝（雾）完全不是冲着减糖去的，就图这个口味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2032333398057091558",
+        "created_at": "2026-03-13T23:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032599747932897735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032599747932897735",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032333398057091558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 个人口感觉得无糖可乐比原味好喝（雾）完全不是冲着减糖去的，就图这个口味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2032333398057091558",
+        "created_at": "2026-03-13T05:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032333398057091558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LightCavalryCZ…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/LightCavalryCZ/status/2031314414637625732",
+              "start": 108,
+              "url": "https://t.co/ICCrLTT0Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032333398057091558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12866,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031314414637625732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“生活已经足够甜蜜了”\n我宣布这是2026年世界上最臭傻逼的宣传，宜家死妈了是不是？😁\n还有无糖饮料个人认为是最臭傻逼，最无意义的东西，我他妈要健康我直接喝牛奶或者喝水了，喝你妈逼口感像阉割的太监一样的无糖饮料啊😅 https://t.co/ICCrLTT0Ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 192,
+          "like_count": 1211,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 331
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n我可能粉红，我也可能反贼\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n我的安格斯🍔——麦当劳还我安格斯🍔——😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 2156,
+          "like_count": 20036,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 19484
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2029239563613507991",
+    "created_at": "2026-03-05T19:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T20:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029646831001432433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1742115844438835200",
+          "start": 0,
+          "username": "KitJanis7764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029646831001432433",
+    "in_reply_to_user_id": "1742115844438835200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029522161938120987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitJanis7764 抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2029239563613507991",
+        "created_at": "2026-03-05T19:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T20:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029646831001432433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1742115844438835200",
+              "start": 0,
+              "username": "KitJanis7764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029646831001432433",
+        "in_reply_to_user_id": "1742115844438835200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029522161938120987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitJanis7764 抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742115844438835200",
+        "conversation_id": "2029239563613507991",
+        "created_at": "2026-03-05T11:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029522161938120987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029522161938120987",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029239563613507991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 抱抱🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 156,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 124
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-02T09:29:26.000Z",
+        "description": "绳网用户 不孕不育 碎碎念：抑郁还能不能好了^_^",
+        "id": "1742115844438835200",
+        "name": "娘口三三两两",
+        "pinned_tweet_id": "1994992226645282821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834128011886821382/X9RbicEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 123,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 190
+        },
+        "username": "KitJanis7764",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2043557809149898886",
+    "created_at": "2026-04-13T13:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043682410982703372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 28,
+          "id": "1885641757469380608",
+          "start": 13,
+          "username": "nishuodeduiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043682410982703372",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043557809149898886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing @nishuodeduiiii 发生什么了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_2043557789717626880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFws-4YaAAAYDft.jpg",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2043557809149898886",
+        "created_at": "2026-04-13T13:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043682410982703372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 28,
+              "id": "1885641757469380608",
+              "start": 13,
+              "username": "nishuodeduiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043682410982703372",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043557809149898886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing @nishuodeduiiii 发生什么了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043557789717626880"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043557809149898886",
+        "created_at": "2026-04-13T05:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043557809149898886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1885641757469380608",
+              "start": 43,
+              "username": "nishuodeduiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ry8vAJcKJs",
+              "end": 82,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2043557809149898886/photo/1",
+              "media_key": "3_2043557789717626880",
+              "start": 59,
+              "url": "https://t.co/Ry8vAJcKJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043557809149898886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5326,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要这样对我。。全部都是假的。。全部都是。。让我大中午的我只能躲在被我哭你去死吧😰@nishuodeduiiii https://t.co/Ry8vAJcKJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 280,
+          "like_count": 5757,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 854
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 318,
+          "like_count": 4276,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1652
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "细腻的人 唯独没有看见自己的珍贵\n\n欢迎互fo 请私信我或者留言\n\n一个反帝反独裁的国际主义者 和平主义者 左翼 支持民主 平等 我不是粉红 请查清楚成分",
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "你说得对",
+        "pinned_tweet_id": "2026997670326468936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024698363162349569/q0VWh2dz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 135,
+          "like_count": 406,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1657
+        },
+        "username": "nishuodeduiiii",
+        "verified": false
+      }
+    ]
+  }
+}

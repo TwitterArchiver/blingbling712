@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2045098577895252184",
+    "created_at": "2026-04-17T12:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045112839996616886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1980470627539800064",
+          "start": 0,
+          "username": "aparasr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045112839996616886",
+    "in_reply_to_user_id": "1980470627539800064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045098577895252184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aparasr 已经到舍曲林了嘛😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2045098577895252184",
+        "created_at": "2026-04-17T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045112839996616886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1980470627539800064",
+              "start": 0,
+              "username": "aparasr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045112839996616886",
+        "in_reply_to_user_id": "1980470627539800064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045098577895252184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aparasr 已经到舍曲林了嘛😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980470627539800064",
+        "conversation_id": "2045098577895252184",
+        "created_at": "2026-04-17T11:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045098577895252184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045098577895252184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘三板斧\n第一幕 补佳乐 黄体酮 环丙孕酮\n第二幕 舍曲林 喹硫平 普瑞巴林\n第三幕 氰化钾 碳酸钡 亚硝酸钠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 284,
+          "like_count": 6258,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 919
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T03:06:23.000Z",
+        "description": "MtF /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aparas.top",
+                "end": 23,
+                "expanded_url": "http://aparas.top",
+                "start": 0,
+                "url": "https://t.co/3n8ZRrbcfM"
+              }
+            ]
+          }
+        },
+        "id": "1980470627539800064",
+        "location": "Soochow / Peking",
+        "name": "Parasomnia",
+        "pinned_tweet_id": "2038764893747200396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936654362574848/FK-6BgA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 109,
+          "like_count": 2453,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/3n8ZRrbcfM",
+        "username": "aparasr",
+        "verified": false
+      }
+    ]
+  }
+}

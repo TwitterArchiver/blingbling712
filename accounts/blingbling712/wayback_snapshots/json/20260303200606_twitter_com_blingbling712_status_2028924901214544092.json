@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028849841045192841",
+    "created_at": "2026-03-03T20:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T21:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028924901214544092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028924901214544092",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028849841045192841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 是的感觉更加拘束礼貌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028849841045192841",
+        "created_at": "2026-03-03T20:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T21:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028924901214544092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028924901214544092",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028849841045192841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 是的感觉更加拘束礼貌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2028849841045192841",
+        "created_at": "2026-03-03T15:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028849841045192841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/tatanakots/status/2028843255832699004",
+              "start": 125,
+              "url": "https://t.co/oTZERbvHVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028849841045192841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028843255832699004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然但是他们人有的时候也还挺好的\n昨天我被他们开棒棒糖的声音吓到了，今天他们开棒棒糖的时候就事先提醒了我一下\n而且感觉他们貌似是有一种类似把我当作异性看待的距离感的，对我很有礼貌（我感觉还挺好？虽然这样确实导致隔阂可能比较大，但是至少是有边界感的） https://t.co/oTZERbvHVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 146,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 356,
+          "like_count": 25104,
+          "listed_count": 6,
+          "media_count": 1569,
+          "tweet_count": 11019
+        },
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

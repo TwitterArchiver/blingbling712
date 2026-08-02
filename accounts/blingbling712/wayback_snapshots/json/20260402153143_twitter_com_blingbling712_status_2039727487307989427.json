@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2039724753888727181",
+    "created_at": "2026-04-02T15:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039727487307989427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 24,
+          "id": "1560129932524544000",
+          "start": 17,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039727487307989427",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039724753888727181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @xijiu_ 难受…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2039724740605313024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6O2DtbAAAEmne.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_2039724740613689344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6O2Dva0AAtC1J.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2039724753888727181",
+        "created_at": "2026-04-02T15:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039727487307989427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 24,
+              "id": "1560129932524544000",
+              "start": 17,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727487307989427",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039724753888727181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @xijiu_ 难受…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039724740605313024",
+            "3_2039724740613689344"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2039724753888727181",
+        "created_at": "2026-04-02T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039724753888727181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxQaFFfMk6",
+              "end": 116,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2039724753888727181/photo/1",
+              "media_key": "3_2039724740605313024",
+              "start": 93,
+              "url": "https://t.co/JxQaFFfMk6"
+            },
+            {
+              "display_url": "pic.x.com/JxQaFFfMk6",
+              "end": 116,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2039724753888727181/photo/1",
+              "media_key": "3_2039724740613689344",
+              "start": 93,
+              "url": "https://t.co/JxQaFFfMk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039724753888727181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想起来好久以前，一位跨女去世之后，她的母亲说的话。\n“我觉得他喜欢帅帅的男生服”\n所以，要好好活下去呀。作为真实的自己活下去吧，即使再困难、再辛苦，也终究不会怀着悲哀和遗憾被埋进土里。 https://t.co/JxQaFFfMk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 250,
+          "like_count": 4160,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 673
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 2094,
+          "like_count": 27982,
+          "listed_count": 9,
+          "media_count": 145,
+          "tweet_count": 6788
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "爱人的小笼子",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3323,
+          "following_count": 846,
+          "like_count": 191863,
+          "listed_count": 2,
+          "media_count": 594,
+          "tweet_count": 9104
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

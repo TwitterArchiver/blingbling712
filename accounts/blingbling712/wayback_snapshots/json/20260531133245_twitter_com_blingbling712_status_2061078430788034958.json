@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060759806785540161",
+    "created_at": "2026-05-31T13:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061078430788034958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823767079285350406",
+          "start": 0,
+          "username": "Faomocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061078430788034958",
+    "in_reply_to_user_id": "1823767079285350406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060759806785540161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faomocat 高考加油喵！（触发底层代码）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060759803367219201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlKH28bYAEPk6r.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060759806785540161",
+        "created_at": "2026-05-31T13:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061078430788034958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061078430788034958",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060759806785540161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat 高考加油喵！（触发底层代码）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060759803367219201"
+          ]
+        },
+        "author_id": "1823767079285350406",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060759806785540161",
+        "created_at": "2026-05-30T16:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060759806785540161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCaUjO9Uqh",
+              "end": 59,
+              "expanded_url": "https://x.com/Faomocat/status/2060759806785540161/photo/1",
+              "media_key": "3_2060759803367219201",
+              "start": 36,
+              "url": "https://t.co/GCaUjO9Uqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060759806785540161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2334,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了…考高考了来抄个用户名罢（字写得不好QAQ）谢谢各位喵！🎉 https://t.co/GCaUjO9Uqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 415,
+          "like_count": 12873,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1667
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF🍥🏳️‍⚧️| INFP |高三牲 | 物化地 | 备战高考ing | 数学+物理求130 | 目前无钱买糖 | 172/62 | 2008/12/10出厂 | 半炸柜 | 求赞 | 同类互fo | 支持语言CHI😀ENG😉JAP😮‍💨",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 341,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 421
+        },
+        "username": "Faomocat",
+        "verified": false
+      }
+    ]
+  }
+}

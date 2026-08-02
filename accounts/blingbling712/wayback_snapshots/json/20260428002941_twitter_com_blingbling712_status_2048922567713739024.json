@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2048922567713739024",
+    "created_at": "2026-04-28T00:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048922567713739024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumidexnz/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/lumidexnz/status/2048850793756012918",
+          "start": 6,
+          "url": "https://t.co/HjD01BYBWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048922567713739024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048850793756012918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的好窒息 https://t.co/HjD01BYBWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64600,
+        "height": 1280,
+        "media_key": "13_2048850385121816576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048850385121816576/img/K8_JivwoP_9uiDDv.jpg",
+        "public_metrics": {
+          "view_count": 35306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/320x568/u66iCuewlEgZCEJR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/480x852/07VAWwViYkmGkuFC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/720x1280/5Na8A_cpVS0m-OlS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/pl/vVjKSaQqA3QJF7fS.m3u8?tag=14&v=83d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2048922567713739024",
+        "created_at": "2026-04-28T00:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048922567713739024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumidexnz/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lumidexnz/status/2048850793756012918",
+              "start": 6,
+              "url": "https://t.co/HjD01BYBWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048922567713739024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048850793756012918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的好窒息 https://t.co/HjD01BYBWf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048850385121816576"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2048850793756012918",
+        "created_at": "2026-04-27T19:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048850793756012918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obnsZ2vm3T",
+              "end": 63,
+              "expanded_url": "https://x.com/LumidexNZ/status/2048850793756012918/video/1",
+              "media_key": "13_2048850385121816576",
+              "start": 40,
+              "url": "https://t.co/obnsZ2vm3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048850793756012918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 50943,
+          "like_count": 263,
+          "quote_count": 10,
+          "reply_count": 40,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪！！！我不行了 本来都要睡了 刷到这个视频给我精神了\nTS被抓扭转机构 https://t.co/obnsZ2vm3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 324,
+          "like_count": 8198,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1187
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病｜匿名信箱https://t.co/MkVyELXohF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 31,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 8,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 640,
+          "like_count": 5130,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

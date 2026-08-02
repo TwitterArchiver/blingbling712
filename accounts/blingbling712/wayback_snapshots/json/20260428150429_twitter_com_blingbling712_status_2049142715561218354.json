@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2049046652044857503",
+    "created_at": "2026-04-28T15:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049142715561218354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 33,
+          "id": "1565981667746914304",
+          "start": 17,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049142715561218354",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046652044857503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa @Kagura_Yukikaze 我被送进去只会让人看着解压（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2049046652044857503",
+        "created_at": "2026-04-28T15:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049142715561218354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 33,
+              "id": "1565981667746914304",
+              "start": 17,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049142715561218354",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046652044857503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @Kagura_Yukikaze 我被送进去只会让人看着解压（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2049046652044857503",
+        "created_at": "2026-04-28T08:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046652044857503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/777qqq88/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/777qqq88/status/2048721775249498166",
+              "start": 20,
+              "url": "https://t.co/vLWIMSoF5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049046652044857503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 24033,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048721775249498166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有足够漂亮才会获得被如此怜惜的资格吗 https://t.co/vLWIMSoF5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 327,
+          "like_count": 8341,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1200
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 922,
+          "like_count": 3227,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2180
+        },
+        "username": "amber_medusozoa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 2866,
+          "like_count": 103301,
+          "listed_count": 6,
+          "media_count": 771,
+          "tweet_count": 12564
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

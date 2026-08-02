@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2043619334996828207",
+    "created_at": "2026-04-13T14:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043696330334257585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043696330334257585",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043619334996828207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2043619334996828207",
+        "created_at": "2026-04-13T14:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043696330334257585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043696330334257585",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043619334996828207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2043619334996828207",
+        "created_at": "2026-04-13T09:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043619334996828207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiki_qiqing/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/kiki_qiqing/status/2043557809149898886",
+              "start": 131,
+              "url": "https://t.co/4G8j5CX3Ul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043619334996828207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 697,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043557809149898886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了一个下午。我好想死。。一想到曾经说过的一切我就忍不住哭，那些约定全部都是骗我的，我从来没有什么看不顺眼，事到如今我才知道只有你看我不顺眼。。为什么要骗我。。为什么早就讨厌我还假装和我好，然后一言不合就抛弃我，为什么弃我而去也不说清楚，为什么要这样。我恨你 https://t.co/4G8j5CX3Ul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 280,
+          "like_count": 5777,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 858
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 318,
+          "like_count": 4276,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1652
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

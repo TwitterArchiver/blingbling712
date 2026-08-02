@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2027562861661458469",
+    "created_at": "2026-02-28T02:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027572764689740067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027572764689740067",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027562861661458469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 不要想那么多呀！很正常的呀～抱抱17"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2027562861661458469",
+        "created_at": "2026-02-28T02:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027572764689740067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027572764689740067",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027562861661458469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 不要想那么多呀！很正常的呀～抱抱17"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2027562861661458469",
+        "created_at": "2026-02-28T01:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027562861661458469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027562861661458469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正紫砂的时候和梦里一点都不一样呢\n实际上决定紫砂的时候很平静\n吞药的时候也没有犹豫，吞完也一点都不后悔。\n嗯，17真的是个很坏的坏孩子，浪费大家的同情和关注，真的很抱歉…\n如果大家想骂我的话，请在这里骂我吧。这是17应得的，可惜没办法让大家打到我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 119,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |复活了 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 207,
+          "like_count": 3111,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 484
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

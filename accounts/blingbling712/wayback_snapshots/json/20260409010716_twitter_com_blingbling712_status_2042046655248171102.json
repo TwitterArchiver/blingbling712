@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2041775362586374195",
+    "created_at": "2026-04-09T01:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042046655248171102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042046655248171102",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041775362586374195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYiGongHeQiu 要聊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2041775362586374195",
+        "created_at": "2026-04-09T01:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042046655248171102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042046655248171102",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041775362586374195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu 要聊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2041775362586374195",
+        "created_at": "2026-04-08T07:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041775362586374195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041775362586374195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1531,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "↖这是个(终于)持证的xyn。\n虽然休了两年学，但她正在努力补课、备考。\n虽然可能会很疲惫，但欢迎找她聊天，她会和你聊一些日常的、语言/语言学的、Minecraft的、心理的、甚至涩涩(?)的故事（什么碳基AI）\n\n……我为什么要发这些，难道轻躁狂又来了吗……\n🧠💥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 276,
+          "like_count": 5039,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 755
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "サブ垢@XiaYGHQiu ｜生于21世纪初｜持证含糖MtF｜大学生｜Linguaphile｜Bipolar｜Pursuing higher education｜欢迎和我聊天🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024404971329056768/rYyGwh02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 318,
+          "like_count": 20656,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 3085
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

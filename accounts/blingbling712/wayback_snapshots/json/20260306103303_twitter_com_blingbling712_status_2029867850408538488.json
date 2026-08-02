@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2029849444301295999",
+    "created_at": "2026-03-06T10:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029867850408538488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029867850408538488",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029849444301295999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 哇塞，好事情～虽然还有困难但至少这是好消息～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2029849444301295999",
+        "created_at": "2026-03-06T10:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029867850408538488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029867850408538488",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029849444301295999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 哇塞，好事情～虽然还有困难但至少这是好消息～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2029849444301295999",
+        "created_at": "2026-03-06T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029849444301295999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029849444301295999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜，我有一个好姐姐…！\n刚刚姐姐提着刀就来见父母了（）\n直接威胁父母不准把我送进去！\n我想我应该不会担心，被送到矫正机构去了…\n尽管，以后吃糖和很多事情都是大问题…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 165,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 140
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜😭｜没事可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 91,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 68,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 221,
+          "like_count": 3708,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 722
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

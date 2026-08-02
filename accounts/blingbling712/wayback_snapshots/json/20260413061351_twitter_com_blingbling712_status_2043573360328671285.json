@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2043497153784401953",
+    "created_at": "2026-04-13T06:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043573360328671285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 22,
+          "id": "1362497240682483716",
+          "start": 14,
+          "username": "ZhaoXi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043573360328671285",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043497153784401953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @ZhaoXi_ 好美呜呜，我也想被绑qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043497148550094848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv11GbaIAAYbKk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2043497153784401953",
+        "created_at": "2026-04-13T06:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043573360328671285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 22,
+              "id": "1362497240682483716",
+              "start": 14,
+              "username": "ZhaoXi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043573360328671285",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043497153784401953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @ZhaoXi_ 好美呜呜，我也想被绑qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043497148550094848"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2043497153784401953",
+        "created_at": "2026-04-13T01:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:03:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043495249352290798",
+          "2043497153784401953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1362497240682483716",
+              "start": 38,
+              "username": "ZhaoXi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nEHxlhRYQ",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_toffee/status/2043497153784401953/photo/1",
+              "media_key": "3_2043497148550094848",
+              "start": 47,
+              "url": "https://t.co/7nEHxlhRYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043497153784401953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2399,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢这张的侧脸 感觉自己乖乖的看起来像小猫一样（并且还在偷偷笑\n\n🏠🪢📷 @ZhaoXi_ https://t.co/7nEHxlhRYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 280,
+          "like_count": 5743,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 849
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24183,
+          "following_count": 2722,
+          "like_count": 40473,
+          "listed_count": 11,
+          "media_count": 582,
+          "tweet_count": 21614
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-18T20:20:43.000Z",
+        "description": "Switch(M), Shibari Only/碎碎念话痨bot/人在土伦土宅到失联/混乱邪恶同人女&菜鸡画手+摄影/CHN+ENG",
+        "id": "1362497240682483716",
+        "location": "大瀑布啊你全是水",
+        "name": "朝夕",
+        "pinned_tweet_id": "1688935996308500480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652658029465601/VxvCsH7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46292,
+          "following_count": 361,
+          "like_count": 3259,
+          "listed_count": 81,
+          "media_count": 307,
+          "tweet_count": 3325
+        },
+        "username": "ZhaoXi_",
+        "verified": false
+      }
+    ]
+  }
+}

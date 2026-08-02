@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2033960224831496438",
+    "created_at": "2026-03-18T18:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034336273754657103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034336273754657103",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033960224831496438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 重要的事情要握手三次（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2033960224831496438",
+        "created_at": "2026-03-18T18:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034336273754657103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034336273754657103",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033960224831496438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 重要的事情要握手三次（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2033960224831496438",
+        "created_at": "2026-03-17T17:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033960224831496438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033960224831496438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你好，你想听一个TCP的笑话吗\n好，我想听一个TCP的笑话\n好的，那我就给你讲一个TCP的笑话\n好的，我会听一个TCP的笑话\n你准备好听一个TCP的笑话了吗\n是的，我准备好听一个TCP的笑话了\nOK，那我要说TCP的笑话了，大概有10秒钟，20个字节\n好的，我准备接受你那个10秒，20字节的笑话了\n哦，抱歉，你的链接超时了\n你好，你想听一个TCP的笑话吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 48320,
+          "like_count": 641,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "你好，你想听一个TCP的笑话吗\n好，我想听一个TCP的笑话\n好的，那我就给你讲一个TCP的笑话\n好的，我会听一个TCP的笑话\n你准备好听一个TCP的笑话了吗\n是的，我准备好听一个TCP的笑话了\nOK，那我要说TCP的笑话了，大概有10秒钟，20个字节\n好的，我准备接受你那个10秒，20字节的笑话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 206,
+          "like_count": 2126,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 434
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 786,
+          "like_count": 86107,
+          "listed_count": 6,
+          "media_count": 3118,
+          "tweet_count": 14243
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

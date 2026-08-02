@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2026324122972893480",
+    "created_at": "2026-02-24T16:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026339979069169706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026339979069169706",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026324122972893480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 摸摸知式，好可怕的司机（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2026324122972893480",
+        "created_at": "2026-02-24T16:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026339979069169706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026339979069169706",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026324122972893480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 摸摸知式，好可怕的司机（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2026324122972893480",
+        "created_at": "2026-02-24T15:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026324122972893480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026324122972893480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呜呜呜呜😭我以后再也不晚上回家了😭\n刚才从一个酒店打车回家（正好酒店定位好找）然后上车报完手机号\n司机就问我男的女的..?(方言 然后我听得懂)\n我没回答....\n然后就用普通话问了我一遍 我受不住了说了句我是女的😓\n后面就说现在女生怎么都做这个😅😅（这是何意味）\n后面我就一直玩手机没看司机和车外边\n随后到了我家 司机把车停好第一步不是先开门😓而是先把头转过来猥琐着看我\n(一个光头男把我锁车里然后看着我这换谁谁都会被吓到吧...)\n后面说了一句你真是女生啊就放我下车了...我后面就飞快的跑回家了\n回到家第一件事就是被我妈骂 说我怎么这么晚回家 还说再也不爱我了..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2489,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜😭我以后再也不晚上回家了😭\n刚才从一个酒店打车回家（正好酒店定位好找）然后上车报完手机号\n司机就问我男的女的..?(方言 然后我听得懂)\n我没回答....\n然后就用普通话问了我一遍 我受不住了说了句我是女的😓\n后面就说现在女生怎么都做这个😅😅（这是何意味）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜185｜67kg｜互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 72,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxnAZQ"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 928,
+          "like_count": 40,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/SDCzGxnAZQ",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

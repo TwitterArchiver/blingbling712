@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2081413725815546020",
+    "created_at": "2026-07-27T02:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081560618704818268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066487415678918657",
+          "start": 0,
+          "username": "danshuishuimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081560618704818268",
+    "in_reply_to_user_id": "2066487415678918657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081413725815546020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@danshuishuimu dpt是什么🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2081413725815546020",
+        "created_at": "2026-07-27T02:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081560618704818268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081560618704818268",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081413725815546020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@danshuishuimu dpt是什么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2081413725815546020",
+        "created_at": "2026-07-26T16:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081413725815546020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081413725815546020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花呗刷爆了…😭\n但是我还想买dpt，还想买酸奶葡萄，还想买….\n没钱啊呜呜呜呜悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her |最爱的💖@YeChuan1123｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 453,
+          "like_count": 14052,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\n离世日期已定\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 87,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "location": "正在抱住你",
+        "name": "海月淡水水母x17🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 381,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false
+      }
+    ]
+  }
+}

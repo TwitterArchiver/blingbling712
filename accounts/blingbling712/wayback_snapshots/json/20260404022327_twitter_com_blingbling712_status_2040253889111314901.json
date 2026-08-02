@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2040253889111314901",
+    "created_at": "2026-04-04T02:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040253889111314901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaaaamtxt/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aaaaamtxt/status/2039994638128628110",
+          "start": 7,
+          "url": "https://t.co/k93l28Vp4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040253889111314901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039994638128628110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱捏，转了 https://t.co/k93l28Vp4P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2040253889111314901",
+        "created_at": "2026-04-04T02:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040253889111314901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaaaamtxt/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aaaaamtxt/status/2039994638128628110",
+              "start": 7,
+              "url": "https://t.co/k93l28Vp4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040253889111314901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039994638128628110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱捏，转了 https://t.co/k93l28Vp4P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2039994638128628110",
+        "created_at": "2026-04-03T09:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039994638128628110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AAAAAMTxT/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AAAAAMTxT/status/2031380325709103481",
+              "start": 21,
+              "url": "https://t.co/sZldyAp3Y0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2039994638128628110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1399,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031380325709103481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人给我转帖一下ww我想扩列扩关ww https://t.co/sZldyAp3Y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 255,
+          "like_count": 4388,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 684
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 822,
+          "like_count": 31284,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 6109
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

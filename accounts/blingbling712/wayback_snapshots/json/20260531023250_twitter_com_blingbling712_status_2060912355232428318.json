@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060858815587762239",
+    "created_at": "2026-05-31T02:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060912355232428318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931902040705503232",
+          "start": 0,
+          "username": "CorollaKen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060912355232428318",
+    "in_reply_to_user_id": "1931902040705503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060907832237752435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CorollaKen 有被安慰到（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060858815587762239",
+        "created_at": "2026-05-31T02:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060912355232428318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931902040705503232",
+              "start": 0,
+              "username": "CorollaKen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060912355232428318",
+        "in_reply_to_user_id": "1931902040705503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060907832237752435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CorollaKen 有被安慰到（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931902040705503232",
+        "conversation_id": "2060858815587762239",
+        "created_at": "2026-05-31T02:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060907832237752435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060907832237752435",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060858815587762239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 所以是他对男娘有兴趣，但对女生无兴趣，他把你识别为女生了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 409,
+          "like_count": 12745,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1640
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T02:32:06.000Z",
+        "description": "MTF ｜姐妹贴贴～",
+        "id": "1931902040705503232",
+        "name": "小饼干Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049812711178174464/Bu4GwgGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "CorollaKen",
+        "verified": false
+      }
+    ]
+  }
+}

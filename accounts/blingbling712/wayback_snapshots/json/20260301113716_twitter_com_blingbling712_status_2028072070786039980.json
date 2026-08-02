@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028072070786039980",
+    "created_at": "2026-03-01T11:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028072070786039980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiweisama1220…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/weiweisama1220/status/2028024772039479673",
+          "start": 8,
+          "url": "https://t.co/UuzdCQgYS2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028072070786039980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028024772039479673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睾酮坏事做尽喵 https://t.co/UuzdCQgYS2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028072070786039980",
+        "created_at": "2026-03-01T11:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028072070786039980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiweisama1220…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/weiweisama1220/status/2028024772039479673",
+              "start": 8,
+              "url": "https://t.co/UuzdCQgYS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028072070786039980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028024772039479673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睾酮坏事做尽喵 https://t.co/UuzdCQgYS2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890498415974305792",
+        "conversation_id": "2028024772039479673",
+        "created_at": "2026-03-01T08:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028024772039479673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/2027965846778482842",
+              "start": 8,
+              "url": "https://t.co/NvWKTXDWiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028024772039479673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027965846778482842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睾酮坏事做尽喵 https://t.co/NvWKTXDWiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 127,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T20:28:49.000Z",
+        "description": "mtf丨生产日期Dec20.2009丨Jan29.2026含糖丨喜欢可爱的东西qwq丨贴贴抱抱重度依赖（虽然从来没被抱过ww）丨坐标福建泉州丨已炸柜（家长不管）丨大可爱缘缘@Lainyer051230丨最好的姐姐（大好き）@Cc739108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Lainyer051230"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Cc739108"
+              }
+            ]
+          }
+        },
+        "id": "1890498415974305792",
+        "name": "唯唯sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012435990195982336/PbLMZJrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 218,
+          "like_count": 2675,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 389
+        },
+        "username": "weiweisama1220",
+        "verified": false
+      }
+    ]
+  }
+}

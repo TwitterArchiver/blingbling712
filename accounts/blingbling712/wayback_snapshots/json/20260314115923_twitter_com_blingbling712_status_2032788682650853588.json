@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2032662748006609367",
+    "created_at": "2026-03-14T11:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032788682650853588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032788682650853588",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032662748006609367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 咦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2032662748006609367",
+        "created_at": "2026-03-14T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032788682650853588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032788682650853588",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032662748006609367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 咦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2032662748006609367",
+        "created_at": "2026-03-14T03:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032662748006609367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032662748006609367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6367,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想整个活\n评论区抽一位推友 cos这位推友（换头像名字简介背景图）24小时\n（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 192,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 335
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🍬相关私信下方tg或@astykxs // 你还年轻 都会出人头地 // @hobartr6 @_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "astykxs"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "hobartr6"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "不许偷偷吃猫卷！😾",
+        "pinned_tweet_id": "2031143090506052023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032212035468148736/rjip564T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 840,
+          "like_count": 2806,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028555855646404758",
+    "created_at": "2026-03-02T19:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028555855646404758"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028555855646404758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "又做梦了（）醒来之后发现自己在哭，一时半会又想不起来原因，洗漱的时候一抬头看到镜子里的自己，瞬间就想起梦里的内容（）\n梦到我去看医生，医生跟我说，你都19了才开始吃药，太晚了，没用了，你再怎么努力你这辈子也摆脱不了男性的样子…\n梦里我应该是把药从医生手里抢过来，一下子吃了好多，后面就想象自己是一个真正的女孩子，跟朋友玩闹，在外面逛街，但越玩闹越难受。\n一直在哭（）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又做梦了（）醒来之后发现自己在哭，一时半会又想不起来原因，洗漱的时候一抬头看到镜子里的自己，瞬间就想起梦里的内容（）\n梦到我去看医生，医生跟我说，你都19了才开始吃药，太晚了，没用了，你再怎么努力你这辈子也摆脱不了男性的样子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028555855646404758",
+        "created_at": "2026-03-02T19:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028555855646404758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028555855646404758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "又做梦了（）醒来之后发现自己在哭，一时半会又想不起来原因，洗漱的时候一抬头看到镜子里的自己，瞬间就想起梦里的内容（）\n梦到我去看医生，医生跟我说，你都19了才开始吃药，太晚了，没用了，你再怎么努力你这辈子也摆脱不了男性的样子…\n梦里我应该是把药从医生手里抢过来，一下子吃了好多，后面就想象自己是一个真正的女孩子，跟朋友玩闹，在外面逛街，但越玩闹越难受。\n一直在哭（）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又做梦了（）醒来之后发现自己在哭，一时半会又想不起来原因，洗漱的时候一抬头看到镜子里的自己，瞬间就想起梦里的内容（）\n梦到我去看医生，医生跟我说，你都19了才开始吃药，太晚了，没用了，你再怎么努力你这辈子也摆脱不了男性的样子…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 138,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

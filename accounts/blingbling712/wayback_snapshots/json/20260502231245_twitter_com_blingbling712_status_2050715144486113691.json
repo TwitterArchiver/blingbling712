@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2050713767705813216",
+    "created_at": "2026-05-02T23:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050715144486113691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        },
+        {
+          "end": 25,
+          "id": "1824676724388347904",
+          "start": 13,
+          "username": "JiaoOu84375"
+        },
+        {
+          "end": 39,
+          "id": "1907646836111978498",
+          "start": 26,
+          "username": "z_cloud61300"
+        },
+        {
+          "end": 53,
+          "id": "1585942498253238273",
+          "start": 40,
+          "username": "AliceEslight"
+        },
+        {
+          "end": 64,
+          "id": "1634944403872833536",
+          "start": 54,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050715144486113691",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050713767705813216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord @JiaoOu84375 @z_cloud61300 @AliceEslight @wmy072011 呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050713759166119936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWZTH8aQAA_nCw.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2050713767705813216",
+        "created_at": "2026-05-02T23:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050715144486113691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            },
+            {
+              "end": 25,
+              "id": "1824676724388347904",
+              "start": 13,
+              "username": "JiaoOu84375"
+            },
+            {
+              "end": 39,
+              "id": "1907646836111978498",
+              "start": 26,
+              "username": "z_cloud61300"
+            },
+            {
+              "end": 53,
+              "id": "1585942498253238273",
+              "start": 40,
+              "username": "AliceEslight"
+            },
+            {
+              "end": 64,
+              "id": "1634944403872833536",
+              "start": 54,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050715144486113691",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050713767705813216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord @JiaoOu84375 @z_cloud61300 @AliceEslight @wmy072011 呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050713759166119936"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2050713767705813216",
+        "created_at": "2026-05-02T23:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050713767705813216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2024210421373444096",
+              "start": 22,
+              "username": "blingbling712"
+            },
+            {
+              "end": 49,
+              "id": "1824676724388347904",
+              "start": 37,
+              "username": "JiaoOu84375"
+            },
+            {
+              "end": 69,
+              "id": "1907646836111978498",
+              "start": 56,
+              "username": "z_cloud61300"
+            },
+            {
+              "end": 89,
+              "id": "1585942498253238273",
+              "start": 76,
+              "username": "AliceEslight"
+            },
+            {
+              "end": 100,
+              "id": "1634944403872833536",
+              "start": 90,
+              "username": "wmy072011"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 128,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/38YXkZhPhd"
+            },
+            {
+              "display_url": "pic.x.com/Al5R8kqaXc",
+              "end": 152,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2050713767705813216/photo/1",
+              "media_key": "3_2050713759166119936",
+              "start": 129,
+              "url": "https://t.co/Al5R8kqaXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050713767705813216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @blingbling712 @JiaoOu84375\n👰 配偶: @z_cloud61300\n👶 孩子: @AliceEslight @wmy072011\n\n➡️ https://t.co/38YXkZhPhd https://t.co/Al5R8kqaXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 354,
+          "like_count": 9694,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1395
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 16*cm 4*kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733008212193280/6tEmWEXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 148,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1277
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T05:16:52.000Z",
+        "description": "这里什么也没有哦",
+        "id": "1824676724388347904",
+        "location": "中国 ",
+        "name": "蓝莓拿铁三勺糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042937433583718400/INgItlnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 31,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 514
+        },
+        "username": "JiaoOu84375",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T04:10:32.000Z",
+        "description": "我希望你不要死！我希望大家都不要死！我最喜欢《Jose与虎与鱼们》啦！（是日版真人电影哦ദ്ദി)✧）我们可以一起去看这部电影吗？可以吧！要好好地等我哦！（哎呀，这部电影好悲伤，不如我们无所事事地聊上一整天呢！）",
+        "id": "1907646836111978498",
+        "name": "cloud z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998334221237325824/g8PZjcvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 71,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 981
+        },
+        "username": "z_cloud61300",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "I've run the slut app and now my pc and twitter account are controlled by @sw_takeover2. I can't change my wallpaper and lockscreen!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "sw_takeover2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/sw_takeover",
+                "end": 23,
+                "expanded_url": "https://throne.com/sw_takeover",
+                "start": 0,
+                "url": "https://t.co/Ot7XGvYV2J"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "Gooning",
+        "name": "Censored Slut",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050530615888605184/kPSob4Ue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 91,
+          "like_count": 38611,
+          "listed_count": 4,
+          "media_count": 627,
+          "tweet_count": 14274
+        },
+        "url": "https://t.co/Ot7XGvYV2J",
+        "username": "AliceEslight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 360,
+          "like_count": 41769,
+          "listed_count": 1,
+          "media_count": 1419,
+          "tweet_count": 13599
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

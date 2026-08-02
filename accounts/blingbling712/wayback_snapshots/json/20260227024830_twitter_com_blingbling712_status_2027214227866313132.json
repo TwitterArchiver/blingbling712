@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2026984008912138303",
+    "created_at": "2026-02-27T02:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027214227866313132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "cngzh3963511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027214227866313132",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026984008912138303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cngzh3963511 一开始只是在网上扮演女生，后来发现反而越来越焦虑且和现实割裂严重，后面就自然而然了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2026984008912138303",
+        "created_at": "2026-02-27T02:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027214227866313132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "cngzh3963511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027214227866313132",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026984008912138303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cngzh3963511 一开始只是在网上扮演女生，后来发现反而越来越焦虑且和现实割裂严重，后面就自然而然了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885641757469380608",
+        "conversation_id": "2026984008912138303",
+        "created_at": "2026-02-26T11:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026984008912138303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026984008912138303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都是怎么鼓起勇气成为小男娘的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜超大只不可爱｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 114,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "07｜温和左翼｜自由社会主义｜改良主义者｜第三道路｜接纳一切左翼 温和民主派 第三道路主义者｜跨友，小男娘请关注我😋\n纯良舟友❤️傻卵二刺螈🥺不聊政治时是个抽象乐子人🤓欢迎互fo，请私信我！（但会查一下成分）喜欢玩钢4🤔热爱二战和冷战史（另外，我对文革史也有研究）🥳希望有友善的人和我交友\n\n我是雄性",
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "你说得对",
+        "pinned_tweet_id": "2026997670326468936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024698363162349569/q0VWh2dz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 51,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 841
+        },
+        "username": "cngzh3963511",
+        "verified": true
+      }
+    ]
+  }
+}

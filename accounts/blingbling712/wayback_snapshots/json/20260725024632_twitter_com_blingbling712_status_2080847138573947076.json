@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2080568729633792054",
+    "created_at": "2026-07-25T02:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080847138573947076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407215903406706688",
+          "start": 0,
+          "username": "Zako_Fries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080847138573947076",
+    "in_reply_to_user_id": "1407215903406706688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080568729633792054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zako_Fries 诶？想见见诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2080568729633792054",
+        "created_at": "2026-07-25T02:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080847138573947076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407215903406706688",
+              "start": 0,
+              "username": "Zako_Fries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080847138573947076",
+        "in_reply_to_user_id": "1407215903406706688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080568729633792054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zako_Fries 诶？想见见诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407215903406706688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194369185473691648",
+              "name": "North America travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197985105790111744",
+              "name": "Canada travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1197985105790111744",
+              "name": "Canada travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2080568729633792054",
+        "created_at": "2026-07-24T08:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080568729633792054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080568729633792054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旅行更新：8/5 ～ 12會在Toronto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her |最爱的💖@YeChuan1123｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 456,
+          "like_count": 13980,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1811
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "一隻姛貓貓糰子 但日常過於缺抱抱變成了海豹 需要海量的抱抱\n\n老婆 - @attack_steel 媽媽 - @ArtsSuraimu 姐姐 - @_Nana_Sparkle_\n\nWhere there's a will, there's a way",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "attack_steel"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "ArtsSuraimu"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "_Nana_Sparkle_"
+              }
+            ]
+          }
+        },
+        "id": "1407215903406706688",
+        "location": "🇺🇸🏳️‍⚧️",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "2053295633378033756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 722,
+          "like_count": 5162,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 6930
+        },
+        "url": "",
+        "username": "Zako_Fries",
+        "verified": true
+      }
+    ]
+  }
+}

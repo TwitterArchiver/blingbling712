@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060422782584848430",
+    "created_at": "2026-05-29T23:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T00:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060502166205346201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060502166205346201",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060422782584848430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@amber_medusozoa 阴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2060422779611082757",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgXmfnXcAUjml7.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060422782584848430",
+        "created_at": "2026-05-29T23:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060502166205346201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060502166205346201",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060422782584848430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_medusozoa 阴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060422779611082757"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060422782584848430",
+        "created_at": "2026-05-29T18:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060422782584848430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVSeRZbpVr",
+              "end": 26,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2060422782584848430/photo/1",
+              "media_key": "3_2060422779611082757",
+              "start": 3,
+              "url": "https://t.co/OVSeRZbpVr"
+            },
+            {
+              "display_url": "x.com/diamond_kokoro…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/diamond_kokoro/status/2060383553062625392",
+              "start": 27,
+              "url": "https://t.co/uIOxFBJF6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060422782584848430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060383553062625392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "试试 https://t.co/OVSeRZbpVr https://t.co/uIOxFBJF6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 401,
+          "like_count": 12493,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 1620
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼@amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "amber_digit"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 24,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 1,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5438,
+          "following_count": 936,
+          "like_count": 4138,
+          "listed_count": 11,
+          "media_count": 105,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

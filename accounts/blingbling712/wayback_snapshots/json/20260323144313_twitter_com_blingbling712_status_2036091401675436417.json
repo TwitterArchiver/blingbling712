@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2035939820694855937",
+    "created_at": "2026-03-23T14:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036091401675436417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950139141687316480",
+          "start": 0,
+          "username": "HuShuai229540"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036091401675436417",
+    "in_reply_to_user_id": "1950139141687316480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036090791643533635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuShuai229540 这个好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2035939820694855937",
+        "created_at": "2026-03-23T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036091401675436417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1950139141687316480",
+              "start": 0,
+              "username": "HuShuai229540"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036091401675436417",
+        "in_reply_to_user_id": "1950139141687316480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036090791643533635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuShuai229540 这个好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950139141687316480",
+        "conversation_id": "2035939820694855937",
+        "created_at": "2026-03-23T14:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036090791643533635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036090791643533635",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035939820694855937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 特兰斯根德尔斯共和国 Republic of Transgenders（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 226,
+          "like_count": 2782,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 514
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-29T10:19:50.000Z",
+        "description": "苏东德法美中朝勋赏收藏/ Kards英苏海军支援新手/ Marxism-Maoism/解放神学/反中俢中帝\n不定期上线\n对除了粉红/支黑/轮子之外的一切政治/民族/性/宗教群体表示友好和包容",
+        "id": "1950139141687316480",
+        "name": "Revolutionary戦旗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971880834555957255/iYQuJgE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 247,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 975
+        },
+        "username": "HuShuai229540",
+        "verified": false
+      }
+    ]
+  }
+}

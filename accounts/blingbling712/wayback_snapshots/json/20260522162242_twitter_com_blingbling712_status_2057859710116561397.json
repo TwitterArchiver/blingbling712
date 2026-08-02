@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2057701553822466183",
+    "created_at": "2026-05-22T16:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057859710116561397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057859710116561397",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057701553822466183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 恭喜（羡慕😭）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057701544951443456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5spyiacAAL8hY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2057701553822466183",
+        "created_at": "2026-05-22T16:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057859710116561397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057859710116561397",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057701553822466183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 恭喜（羡慕😭）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057701544951443456"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2057701553822466183",
+        "created_at": "2026-05-22T05:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057701553822466183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsfEap9GUL",
+              "end": 168,
+              "expanded_url": "https://x.com/Ted_yeet/status/2057701553822466183/photo/1",
+              "media_key": "3_2057701544951443456",
+              "start": 145,
+              "url": "https://t.co/RsfEap9GUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057701553822466183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2788,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一次复诊就在不停的和这段时间遇到的朋友打招呼当中飞快的结束了\n一个月的时间里慢慢感觉到过去两年里那种灰蒙蒙的滤镜消失了，那个每天多动症一样没心没肺傻乐还经常nerd发言的自己又回来了\n过去的记忆不会消失，但是逐渐陌生了起来\n他兑现了对她的承诺，现在轮到她看着他睡着了\n谢谢你，另一个我 https://t.co/RsfEap9GUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 385,
+          "like_count": 11940,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 1568
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 1727,
+          "like_count": 50978,
+          "listed_count": 19,
+          "media_count": 505,
+          "tweet_count": 11850
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

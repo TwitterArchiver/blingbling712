@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2036691098995990886",
+    "created_at": "2026-03-25T20:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T21:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036905716020027603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036905716020027603",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036691098995990886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 哇还能致幻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2036691092729630720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPHwgtaEAA8yCe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2036691098995990886",
+        "created_at": "2026-03-25T20:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036905716020027603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036905716020027603",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036691098995990886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 哇还能致幻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036691092729630720"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036691098995990886",
+        "created_at": "2026-03-25T06:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036691098995990886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H8M0t4aZU",
+              "end": 37,
+              "expanded_url": "https://x.com/bui_tu46916/status/2036691098995990886/photo/1",
+              "media_key": "3_2036691092729630720",
+              "start": 14,
+              "url": "https://t.co/6H8M0t4aZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036691098995990886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12495,
+          "like_count": 186,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我们老钟的药理水平啊 https://t.co/6H8M0t4aZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜# infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 238,
+          "like_count": 3276,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 573
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 118,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 252
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

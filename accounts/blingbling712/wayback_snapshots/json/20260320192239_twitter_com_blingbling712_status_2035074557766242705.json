@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2035074557766242705",
+    "created_at": "2026-03-20T19:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T20:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035074557766242705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "description": "即使是低剂量的色谱龙，它在本质上依然是一种强效的孕激素衍生物（Progestin），并且具有极强的抗雄激素作用。医学研究表明，孕激素类药物会干扰大脑中的神经类固醇代谢，部分人群对此极其敏感，即使低剂量也会直接诱发抑郁、疲劳、嗜睡和情绪低落。此外，将体内的睾酮水平压制到极低（甚至接近零）的状态，虽然能阻止男性化特征的发展，但睾酮在人体内也负责维持精力、动力和多巴胺的释放。睾酮的骤降往往伴随着强烈的“...",
+          "display_url": "mizukiakiyama.com/articles/why-t…",
+          "end": 54,
+          "expanded_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+          "start": 31,
+          "status": 200,
+          "title": "为什么药娘吃色谱龙会不开心？",
+          "unwound_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+          "url": "https://t.co/kZVZzhhkeG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035074557766242705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035040683900493898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 为什么药娘吃色谱龙会不开心呢？\nhttps://t.co/kZVZzhhkeG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2035074557766242705",
+        "created_at": "2026-03-20T19:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035074557766242705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "description": "即使是低剂量的色谱龙，它在本质上依然是一种强效的孕激素衍生物（Progestin），并且具有极强的抗雄激素作用。医学研究表明，孕激素类药物会干扰大脑中的神经类固醇代谢，部分人群对此极其敏感，即使低剂量也会直接诱发抑郁、疲劳、嗜睡和情绪低落。此外，将体内的睾酮水平压制到极低（甚至接近零）的状态，虽然能阻止男性化特征的发展，但睾酮在人体内也负责维持精力、动力和多巴胺的释放。睾酮的骤降往往伴随着强烈的“...",
+              "display_url": "mizukiakiyama.com/articles/why-t…",
+              "end": 54,
+              "expanded_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+              "start": 31,
+              "status": 200,
+              "title": "为什么药娘吃色谱龙会不开心？",
+              "unwound_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+              "url": "https://t.co/kZVZzhhkeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035074557766242705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035040683900493898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 为什么药娘吃色谱龙会不开心呢？\nhttps://t.co/kZVZzhhkeG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2035040683900493898",
+        "created_at": "2026-03-20T17:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035040683900493898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "即使是低剂量的色谱龙，它在本质上依然是一种强效的孕激素衍生物（Progestin），并且具有极强的抗雄激素作用。医学研究表明，孕激素类药物会干扰大脑中的神经类固醇代谢，部分人群对此极其敏感，即使低剂量也会直接诱发抑郁、疲劳、嗜睡和情绪低落。此外，将体内的睾酮水平压制到极低（甚至接近零）的状态，虽然能阻止男性化特征的发展，但睾酮在人体内也负责维持精力、动力和多巴胺的释放。睾酮的骤降往往伴随着强烈的“...",
+              "display_url": "mizukiakiyama.com/articles/why-t…",
+              "end": 39,
+              "expanded_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+              "start": 16,
+              "status": 200,
+              "title": "为什么药娘吃色谱龙会不开心？",
+              "unwound_url": "https://mizukiakiyama.com/articles/why-transgirl-takes-cpa-still-unhappy",
+              "url": "https://t.co/kZVZzhhkeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035040683900493898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1043,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么药娘吃色谱龙会不开心呢？\nhttps://t.co/kZVZzhhkeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 214,
+          "like_count": 2342,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 461
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | BFF 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 944,
+          "like_count": 4757,
+          "listed_count": 1,
+          "media_count": 578,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

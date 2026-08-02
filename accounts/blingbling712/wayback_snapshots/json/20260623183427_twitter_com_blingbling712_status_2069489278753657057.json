@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069489273997262848"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069489278753657057",
+    "created_at": "2026-06-23T18:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069489278753657057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMScL0pbnW",
+          "end": 27,
+          "expanded_url": "https://x.com/blingbling712/status/2069489278753657057/photo/1",
+          "media_key": "3_2069489273997262848",
+          "start": 4,
+          "url": "https://t.co/PMScL0pbnW"
+        },
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/mark67358226/status/2069350205745725687",
+          "start": 28,
+          "url": "https://t.co/veQQc0OeU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069489278753657057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069350205745725687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（？） https://t.co/PMScL0pbnW https://t.co/veQQc0OeU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069489273997262848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhNh7MWgAA2UV1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2069349772801277952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfOp4vbAAAbCo8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069489273997262848"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069489278753657057",
+        "created_at": "2026-06-23T18:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069489278753657057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMScL0pbnW",
+              "end": 27,
+              "expanded_url": "https://x.com/blingbling712/status/2069489278753657057/photo/1",
+              "media_key": "3_2069489273997262848",
+              "start": 4,
+              "url": "https://t.co/PMScL0pbnW"
+            },
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/mark67358226/status/2069350205745725687",
+              "start": 28,
+              "url": "https://t.co/veQQc0OeU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069489278753657057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069350205745725687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（？） https://t.co/PMScL0pbnW https://t.co/veQQc0OeU9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069349772801277952"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069350205745725687",
+        "created_at": "2026-06-23T09:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069350205745725687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份结合了心理学量表与行为逻辑测试的深度鉴定系统",
+              "display_url": "femboy.test.nagisa.icu/?qq_aio_chat_t…",
+              "end": 98,
+              "expanded_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "start": 75,
+              "status": 200,
+              "title": "男娘潜质综合评估量表",
+              "unwound_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "url": "https://t.co/u8wMEkYSBv"
+            },
+            {
+              "display_url": "pic.x.com/GZqRvjbei7",
+              "end": 122,
+              "expanded_url": "https://x.com/Mark67358226/status/2069350205745725687/photo/1",
+              "media_key": "3_2069349772801277952",
+              "start": 99,
+              "url": "https://t.co/GZqRvjbei7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069350205745725687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6061,
+          "like_count": 31,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘測試🤓上一個圖片沒傳上去，刪了重發😡，臭推特！！\n話說怎麼有點低啊😢，咱超想當香香軟軟小南梁🤤\n果然還是因為只穿漢服影響我平時著裝的南梁氣質嗎😡\nhttps://t.co/u8wMEkYSBv https://t.co/GZqRvjbei7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 445,
+          "like_count": 13517,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1295,
+          "like_count": 21026,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 4569
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

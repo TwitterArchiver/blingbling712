@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2049471070475030968",
+    "created_at": "2026-04-29T20:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049589028241244503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "AuroraLight_01"
+        },
+        {
+          "end": 32,
+          "id": "1970857021588262912",
+          "start": 16,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049589028241244503",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474197114474545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLight_01 @RainEngine_2024 会一直难过，想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2049471070475030968",
+        "created_at": "2026-04-29T20:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049589028241244503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "AuroraLight_01"
+            },
+            {
+              "end": 32,
+              "id": "1970857021588262912",
+              "start": 16,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049589028241244503",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474197114474545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLight_01 @RainEngine_2024 会一直难过，想哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2049471070475030968",
+        "created_at": "2026-04-29T13:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049474197114474545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049474197114474545",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049471070475030968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 有时想知道“抑郁”是什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 329,
+          "like_count": 8579,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1240
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF-从小想做个女孩子-未炸柜 深柜\n喜欢折腾电脑和会一点编程-分享Hrt日常\n不自残🔪 不Od💊 心理健康 在湖北潜江\n关注芸光谢谢喵~（目标600fo QWQ）\n\n“我看在眼里，我爱不释手，我保持前进，我志在必得”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auroralight_01",
+                "end": 23,
+                "expanded_url": "http://ngl.link/auroralight_01",
+                "start": 0,
+                "url": "https://t.co/mYEIISyh1o"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "t.me/Coxe_Pica",
+        "name": "芸光酱𝗔𝘂𝗿𝗼𝗿𝗮𝗟𝗶𝗴𝗵𝘁 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2044288048666693728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045758360814026752/BKtY2cdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 27,
+          "like_count": 1070,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/mYEIISyh1o",
+        "username": "AuroraLight_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党，家长不管党，炸柜:03.12|OD|生产日期:11.13.2011|161cm53kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学，羡慕一切休学的😭，渴望在家里躺尸😭|同类互fo喵～|里推@UnkXyn|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 138,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 169,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 146,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 1458,
+          "like_count": 16278,
+          "listed_count": 2,
+          "media_count": 505,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": true
+      }
+    ]
+  }
+}

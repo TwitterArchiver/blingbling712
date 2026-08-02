@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2043491904000839843",
+    "created_at": "2026-04-13T13:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043683014035517866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043683014035517866",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043491904000839843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoya_toboso_01 从来没说过喵，从第一次听到的时候就极度厌恶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2043491904000839843",
+        "created_at": "2026-04-13T13:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043683014035517866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683014035517866",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043491904000839843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoya_toboso_01 从来没说过喵，从第一次听到的时候就极度厌恶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "2043491904000839843",
+        "created_at": "2026-04-13T00:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043491904000839843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043491904000839843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6158,
+          "like_count": 94,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你留起长发穿上女装的时候会不会想起小时候和家人说要一个男子汉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 280,
+          "like_count": 5767,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 856
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "都来喜欢葵矢枢",
+        "id": "1902297181157257218",
+        "location": "南方县城的穷蛆",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "1983554091793182792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 160,
+          "like_count": 10839,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 903
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

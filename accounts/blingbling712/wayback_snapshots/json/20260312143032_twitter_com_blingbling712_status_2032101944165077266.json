@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2032033370654589246",
+    "created_at": "2026-03-12T14:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032101944165077266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032101944165077266",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032033370654589246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 这些就不是人，好恶心（）抱抱知式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2032033370654589246",
+        "created_at": "2026-03-12T14:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032101944165077266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032101944165077266",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032033370654589246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 这些就不是人，好恶心（）抱抱知式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2032033370654589246",
+        "created_at": "2026-03-12T09:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032033370654589246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032033370654589246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好怕我们班的男生\n有点恐男了😭\n就是今天下午...\n他们突然过来了（我坐的女生组）然后我旁边也都是女生...\n就这个环境下他们看见我就问我很隐私的问题😅然后我不耐烦的回了之后一个男生直接把我包打开了 问我里面是不是有小玩具😭😭另一个男生问我你用跳蛋还是用什么呀😅😅我当时无语了我就想让他们走，结果硬是把我包翻出来看了之后才走的\n主要是我旁边还有女生他们也这么问我好恶心🤮"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 57676,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "好怕我们班的男生\n有点恐男了😭\n就是今天下午...\n他们突然过来了（我坐的女生组）然后我旁边也都是女生...\n就这个环境下他们看见我就问我很隐私的问题😅然后我不耐烦的回了之后一个男生直接把我包打开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜185｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 185,
+          "like_count": 891,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 263
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1035,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

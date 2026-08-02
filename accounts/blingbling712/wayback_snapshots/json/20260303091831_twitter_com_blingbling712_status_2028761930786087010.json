@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028761930786087010",
+    "created_at": "2026-03-03T09:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028761930786087010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028761930786087010",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@gork 查看我所有的帖子与回复，分析我是怎么样的人，并且分析我的mbti和精神疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028761930786087010",
+        "created_at": "2026-03-03T09:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028761930786087010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028761930786087010",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@gork 查看我所有的帖子与回复，分析我是怎么样的人，并且分析我的mbti和精神疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 145,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 83
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359231,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 352,
+          "media_count": 42017,
+          "tweet_count": 2015080
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060288476244017529",
+    "created_at": "2026-05-29T15:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060383637120377096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1446002090237513731",
+          "start": 0,
+          "username": "Misaka1042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060383637120377096",
+    "in_reply_to_user_id": "1446002090237513731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060288476244017529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka1042 不是，术后？？？我要gd了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060288476244017529",
+        "created_at": "2026-05-29T15:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060383637120377096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446002090237513731",
+              "start": 0,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060383637120377096",
+        "in_reply_to_user_id": "1446002090237513731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060288476244017529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka1042 不是，术后？？？我要gd了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446002090237513731",
+        "conversation_id": "2060288476244017529",
+        "created_at": "2026-05-29T09:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060288476244017529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060288476244017529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17463,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去妇科开雌二醇\n我：（扭扭捏捏）（少女不言）\n医生：怀孕了？\n我：（惊恐）没没没，没有（拿出411出院诊断）\n医生：害，我看看，等等，？这什么东西？（震惊）\n（开处方中）\n医生：我该给你开什么诊断呢，性别不一致，易性症都没有，CAIS和两性畸形不合适\n我：或许会有性身份障碍\n下接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 400,
+          "like_count": 12471,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 1614
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 1181,
+          "like_count": 2791,
+          "listed_count": 15,
+          "media_count": 296,
+          "tweet_count": 1694
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

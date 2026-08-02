@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2027332659060568369",
+    "created_at": "2026-02-27T17:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027436628176773263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027436628176773263",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027332659060568369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 我也想被绑（）（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027332652785872896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKITnLaMAAMq5B.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2027332659060568369",
+        "created_at": "2026-02-27T17:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027436628176773263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027436628176773263",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027332659060568369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 我也想被绑（）（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027332652785872896"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027332659060568369",
+        "created_at": "2026-02-27T10:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027332659060568369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNHBbgwXSr",
+              "end": 95,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2027332659060568369/photo/1",
+              "media_key": "3_2027332652785872896",
+              "start": 72,
+              "url": "https://t.co/tNHBbgwXSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027332659060568369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7885,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "醒来发现双手给我绑起来了…嗯，问我不会拔管子才给我松开…\n其实被绑起来我还挺享受的嘿嘿\n为什么，医院会给棉签刷牙🤔\n不过牙膏味的棉签还挺有趣的 https://t.co/tNHBbgwXSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜超大只不可爱｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 119,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |复活了 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 207,
+          "like_count": 3070,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 457
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

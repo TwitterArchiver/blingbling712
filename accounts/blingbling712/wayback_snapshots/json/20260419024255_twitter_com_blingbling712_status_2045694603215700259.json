@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045694598601928704"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045694603215700259",
+    "created_at": "2026-04-19T02:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045694603215700259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1952656481196896257",
+          "start": 4,
+          "username": "silentwind072"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCV19hVpJy",
+          "end": 42,
+          "expanded_url": "https://x.com/blingbling712/status/2045694603215700259/photo/1",
+          "media_key": "3_2045694598601928704",
+          "start": 19,
+          "url": "https://t.co/fCV19hVpJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045694603215700259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃咪\n@silentwind072 https://t.co/fCV19hVpJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045694598601928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPEZhyacAAAOf_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045694598601928704"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045694603215700259",
+        "created_at": "2026-04-19T02:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045694603215700259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1952656481196896257",
+              "start": 4,
+              "username": "silentwind072"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCV19hVpJy",
+              "end": 42,
+              "expanded_url": "https://x.com/blingbling712/status/2045694603215700259/photo/1",
+              "media_key": "3_2045694598601928704",
+              "start": 19,
+              "url": "https://t.co/fCV19hVpJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045694603215700259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃咪\n@silentwind072 https://t.co/fCV19hVpJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 291,
+          "like_count": 6404,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 943
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T09:02:49.000Z",
+        "description": "",
+        "id": "1952656481196896257",
+        "name": "买只影宝吧很好吃的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008807596543647744/Qa_nCMbR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "silentwind072",
+        "verified": false
+      }
+    ]
+  }
+}

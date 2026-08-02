@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2034724341472956893",
+    "created_at": "2026-03-19T20:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T21:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034724341472956893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034724341472956893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034567323240304923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 总觉得抑郁症这样的病，不论这个人是否患有，只要说出来自己患有的人，都会被抨击，都会被说是虚伪。仿佛只有不诉说的人才是真的患有抑郁症一样。可是呐，有些人可能是因为信任你才会在鼓起无数次勇气后告诉你自己的病情。只是在看到你怀疑的眼神与听到嘲讽的语气后，又变…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2034724341472956893",
+        "created_at": "2026-03-19T20:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T21:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034724341472956893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034724341472956893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034567323240304923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 总觉得抑郁症这样的病，不论这个人是否患有，只要说出来自己患有的人，都会被抨击，都会被说是虚伪。仿佛只有不诉说的人才是真的患有抑郁症一样。可是呐，有些人可能是因为信任你才会在鼓起无数次勇气后告诉你自己的病情。只是在看到你怀疑的眼神与听到嘲讽的语气后，又变…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974276207496867842",
+        "conversation_id": "2034567323240304923",
+        "created_at": "2026-03-19T09:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034567323240304923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034567323240304923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1319,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总觉得抑郁症这样的病，不论这个人是否患有，只要说出来自己患有的人，都会被抨击，都会被说是虚伪。仿佛只有不诉说的人才是真的患有抑郁症一样。可是呐，有些人可能是因为信任你才会在鼓起无数次勇气后告诉你自己的病情。只是在看到你怀疑的眼神与听到嘲讽的语气后，又变成缩回壳的哑巴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 209,
+          "like_count": 2233,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 446
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 1032,
+          "like_count": 1815,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 1646
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

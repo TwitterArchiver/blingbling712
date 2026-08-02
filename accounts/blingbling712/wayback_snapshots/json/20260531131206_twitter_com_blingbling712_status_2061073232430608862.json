@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2061073232430608862",
+    "created_at": "2026-05-31T13:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061073232430608862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1890717486343233536",
+          "start": 3,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061073232430608862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060777926350786879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikarou233086: 出去玩了，一路上看到很多顺女。于是就在想…\nhrt治疗只是为了摸到顺女最低的门槛，而天生已经被激素改造的部分却没有任何机会周旋。这一路上的艰难险阻后得到了一个很平凡的结果，但是它对于“我们”来说居然还充满重量。\n如果天生为女…人生又会有什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2061073232430608862",
+        "created_at": "2026-05-31T13:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061073232430608862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1890717486343233536",
+              "start": 3,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061073232430608862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060777926350786879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikarou233086: 出去玩了，一路上看到很多顺女。于是就在想…\nhrt治疗只是为了摸到顺女最低的门槛，而天生已经被激素改造的部分却没有任何机会周旋。这一路上的艰难险阻后得到了一个很平凡的结果，但是它对于“我们”来说居然还充满重量。\n如果天生为女…人生又会有什么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890717486343233536",
+        "conversation_id": "2060777926350786879",
+        "created_at": "2026-05-30T17:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060777926350786879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060777926350786879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3513,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "出去玩了，一路上看到很多顺女。于是就在想…\nhrt治疗只是为了摸到顺女最低的门槛，而天生已经被激素改造的部分却没有任何机会周旋。这一路上的艰难险阻后得到了一个很平凡的结果，但是它对于“我们”来说居然还充满重量。\n如果天生为女…人生又会有什么不同呢？那个从小就缺乏爱的孩子会不会变得更自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 414,
+          "like_count": 12871,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1666
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "16years09/高2物化生/intp/低精力…/adhd…ed?/回避型依恋…/🏳️‍⚧️无证偷吃（）/会互fo同类/试图学习Cpp、piano(划掉)/VR/L4D2/MySteamID1161959166/水🤖/希望积极生活…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "pinned_tweet_id": "2056712470803443919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 204,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

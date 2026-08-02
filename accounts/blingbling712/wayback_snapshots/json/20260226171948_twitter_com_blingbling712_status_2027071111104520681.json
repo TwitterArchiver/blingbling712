@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2026965851065536840",
+    "created_at": "2026-02-26T17:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027071111104520681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜",
+          "probability": 0.5125,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027071111104520681",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026965851065536840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2026965851065536840",
+        "created_at": "2026-02-26T17:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027071111104520681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.5125,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027071111104520681",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026965851065536840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2026965851065536840",
+        "created_at": "2026-02-26T10:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026965851065536840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026965851065536840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 43771,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拆掉绷带啦！\n很满意…是21年来期望的样子。\n两腿能紧紧并拢的感觉好自然好舒服！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜超大只不可爱｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念\n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 47,
+          "like_count": 317,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 214
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

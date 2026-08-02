@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2035939820694855937",
+    "created_at": "2026-03-23T20:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T21:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036180087075193073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036180087075193073",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036155967965110764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs 过渡期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2035939820694855937",
+        "created_at": "2026-03-23T20:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036180087075193073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036180087075193073",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036155967965110764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs 过渡期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "2035939820694855937",
+        "created_at": "2026-03-23T18:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036155967965110764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036155967965110764",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035939820694855937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 蓝白粉里的白啥意思 转变期间还是转变结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 228,
+          "like_count": 2829,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 522
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "Lacan | Wittgenstein | Marx | 舞萌DX\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义𝙈𝙖𝙤𝙙𝙞𝙚𝙞𝙨𝙢🍥🇭🇰",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032738053912240128/p2hxr-vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1580,
+          "like_count": 38170,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 11917
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

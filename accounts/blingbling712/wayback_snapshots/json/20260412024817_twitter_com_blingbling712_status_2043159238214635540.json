@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2043156735305625877",
+    "created_at": "2026-04-12T02:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T03:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043159238214635540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962556266196418560",
+          "start": 0,
+          "username": "HCl_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043159238214635540",
+    "in_reply_to_user_id": "1962556266196418560",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043156933570339158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCl_Chen （）（）（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2043156735305625877",
+        "created_at": "2026-04-12T02:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043159238214635540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962556266196418560",
+              "start": 0,
+              "username": "HCl_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043159238214635540",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043156933570339158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCl_Chen （）（）（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962556266196418560",
+        "conversation_id": "2043156735305625877",
+        "created_at": "2026-04-12T02:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043156933570339158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043156933570339158",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043156735305625877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的干脆去CAMH急诊部看一看得了，最近自残有严重了操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 280,
+          "like_count": 5628,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 835
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "稀盐酸 任意人称代词 MTX\nA cup of 0.1M HCl(aq）\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G1 LifeSci 在读\n政治取向 人权/进步/生产",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 120,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 569
+        },
+        "username": "HCl_Chen",
+        "verified": true
+      }
+    ]
+  }
+}

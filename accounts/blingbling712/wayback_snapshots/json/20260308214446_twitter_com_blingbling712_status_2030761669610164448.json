@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2030761669610164448",
+    "created_at": "2026-03-08T21:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T22:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030761669610164448"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030761669610164448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又gd…短暂的愉悦之后又被家长打回原形。我像是一个情绪无底洞，开心的情绪很快会被负面想法淹没，浪费朋友的精力时间（）我就不该去祸害别人…\n开始讨厌昨天的自己了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2030761669610164448",
+        "created_at": "2026-03-08T21:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T22:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030761669610164448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030761669610164448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又gd…短暂的愉悦之后又被家长打回原形。我像是一个情绪无底洞，开心的情绪很快会被负面想法淹没，浪费朋友的精力时间（）我就不该去祸害别人…\n开始讨厌昨天的自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 167,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 159
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

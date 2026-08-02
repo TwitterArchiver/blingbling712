@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2033915346881565073",
+    "created_at": "2026-03-17T14:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033915346881565073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033915346881565073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033825401353769035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 药娘：“医生，我认为活着没有任何意义”\n医生：“别担心，这只是抑郁症状，我给你开点药。如果一周后你还是觉得活着没意义，就来找我。”\n药娘：“找你换药吗？”\n医生：“不，找我办器官捐献登记。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2033915346881565073",
+        "created_at": "2026-03-17T14:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033915346881565073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915346881565073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033825401353769035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 药娘：“医生，我认为活着没有任何意义”\n医生：“别担心，这只是抑郁症状，我给你开点药。如果一周后你还是觉得活着没意义，就来找我。”\n药娘：“找你换药吗？”\n医生：“不，找我办器官捐献登记。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2033825401353769035",
+        "created_at": "2026-03-17T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033825401353769035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033825401353769035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3182,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药娘：“医生，我认为活着没有任何意义”\n医生：“别担心，这只是抑郁症状，我给你开点药。如果一周后你还是觉得活着没意义，就来找我。”\n药娘：“找你换药吗？”\n医生：“不，找我办器官捐献登记。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 200,
+          "like_count": 1899,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 395
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜了｜没事可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 91,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 68,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 235,
+          "like_count": 4526,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1046
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

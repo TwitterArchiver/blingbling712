@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2069274173093089775",
+    "created_at": "2026-06-23T17:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069478155887280174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709523299095678976",
+          "start": 0,
+          "username": "duan763688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069478155887280174",
+    "in_reply_to_user_id": "1709523299095678976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069274173093089775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duan763688 xm😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069274162439528448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeJ4yMaIAAVIjU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2069274173093089775",
+        "created_at": "2026-06-23T17:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069478155887280174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709523299095678976",
+              "start": 0,
+              "username": "duan763688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069478155887280174",
+        "in_reply_to_user_id": "1709523299095678976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069274173093089775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duan763688 xm😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069274162439528448"
+          ]
+        },
+        "author_id": "1709523299095678976",
+        "conversation_id": "2069274173093089775",
+        "created_at": "2026-06-23T04:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069274173093089775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCAHrvYxVw",
+              "end": 26,
+              "expanded_url": "https://x.com/duan763688/status/2069274173093089775/photo/1",
+              "media_key": "3_2069274162439528448",
+              "start": 3,
+              "url": "https://t.co/zCAHrvYxVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069274173093089775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2895,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/zCAHrvYxVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 444,
+          "like_count": 13510,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1762
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T10:58:20.000Z",
+        "description": "不要说我是跨不要说我是跨不要说我是跨不要说我是跨我讨厌",
+        "id": "1709523299095678976",
+        "name": "芒果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060418607646130177/NnRXyzAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 116,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "duan763688",
+        "verified": false
+      }
+    ]
+  }
+}

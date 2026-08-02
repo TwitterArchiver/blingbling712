@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060858815587762239",
+    "created_at": "2026-05-31T02:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060917704618377407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060917704618377407",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060916428006711310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus 诶，对喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060858815587762239",
+        "created_at": "2026-05-31T02:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060917704618377407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060917704618377407",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060916428006711310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 诶，对喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2060858815587762239",
+        "created_at": "2026-05-31T02:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060916428006711310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060916428006711310",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060858815587762239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 其实是因为他看的男娘照片都是致力于强调性吸引力提供情绪价值的 而你的照片并不想在性的方面吸引他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 409,
+          "like_count": 12756,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1643
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11957,
+          "following_count": 225,
+          "like_count": 7438,
+          "listed_count": 35,
+          "media_count": 347,
+          "tweet_count": 8584
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

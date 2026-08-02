@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2032331014710632601",
+    "created_at": "2026-03-13T05:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032331014710632601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1534773109940789248",
+          "start": 3,
+          "username": "rainchngshainn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032331014710632601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032329077147705623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainchngshainn: 虽然第一眼看到这样骂回去很爽，但其实内心感觉有些难过……\n为什么她可以说“我是顺女” “我染色体是XX” 然后就能免疫攻击，而我不能…… \n凭什么只因为我的指派性别和认同性别不一致，就要被攻击、被歧视…… 我作为跨女为什么不能跟顺女一样被…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2032331014710632601",
+        "created_at": "2026-03-13T05:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032331014710632601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1534773109940789248",
+              "start": 3,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032331014710632601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032329077147705623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainchngshainn: 虽然第一眼看到这样骂回去很爽，但其实内心感觉有些难过……\n为什么她可以说“我是顺女” “我染色体是XX” 然后就能免疫攻击，而我不能…… \n凭什么只因为我的指派性别和认同性别不一致，就要被攻击、被歧视…… 我作为跨女为什么不能跟顺女一样被…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534773109940789248",
+        "conversation_id": "2032329077147705623",
+        "created_at": "2026-03-13T05:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032329077147705623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wmy072011/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/wmy072011/status/2032261349942919209",
+              "start": 142,
+              "url": "https://t.co/vmQ3Csp99x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329077147705623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032261349942919209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然第一眼看到这样骂回去很爽，但其实内心感觉有些难过……\n为什么她可以说“我是顺女” “我染色体是XX” 然后就能免疫攻击，而我不能…… \n凭什么只因为我的指派性别和认同性别不一致，就要被攻击、被歧视…… 我作为跨女为什么不能跟顺女一样被社会正常对待……\n\n好难过，但又什么都做不了 https://t.co/vmQ3Csp99x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜185｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 191,
+          "like_count": 1059,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 298
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的mtf ≽^•⩊•^≼\n🇨🇦 大一生物在读，分享一些日常, \n中/英/日, 欢迎同类互fo，\nよろしくお願い！",
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 457,
+          "like_count": 3995,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 534
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      }
+    ]
+  }
+}

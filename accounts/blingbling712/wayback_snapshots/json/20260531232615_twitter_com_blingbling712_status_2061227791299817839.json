@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2061132626711257109",
+    "created_at": "2026-05-31T23:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061227791299817839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061227791299817839",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061132626711257109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 水母！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061132622827241478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqdMzqWQAY66XJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2061132626711257109",
+        "created_at": "2026-05-31T23:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061227791299817839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061227791299817839",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061132626711257109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 水母！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061132622827241478"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2061132626711257109",
+        "created_at": "2026-05-31T17:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061132626711257109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLLs521Qil",
+              "end": 135,
+              "expanded_url": "https://x.com/amber_digit2/status/2061132626711257109/photo/1",
+              "media_key": "3_2061132622827241478",
+              "start": 112,
+              "url": "https://t.co/tLLs521Qil"
+            },
+            {
+              "display_url": "x.com/themaidoutfit/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/themaidoutfit/status/2060935013395468732",
+              "start": 136,
+              "url": "https://t.co/8OLtZwzGuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061132626711257109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2422,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060935013395468732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本身是水母，只是希望身上带一点女性人类的特质，所以很想被贴上跨性别、女孩子这类标签。我性格半死不活，和“人类”完全不沾边，虽然可以被这样看待，但也可以当我是普通水母。被当成女孩子这种事令我开心，我希望一直一直被如此看待。 https://t.co/tLLs521Qil https://t.co/8OLtZwzGuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 424,
+          "like_count": 12951,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1689
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼@amber_medusozoa\n💰https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 42,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 19,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2058909194775146809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 430,
+          "like_count": 748,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

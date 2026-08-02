@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067922013206032384"
+      ],
+      "media_source_tweet_id": [
+        "2067922020625793378"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "conversation_id": "2068572210969657659",
+    "created_at": "2026-06-21T05:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068572210969657659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513898402366439427",
+          "start": 3,
+          "username": "tired_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CgdF2NVkcw",
+          "end": 46,
+          "expanded_url": "https://x.com/tired_8964/status/2067922020625793378/photo/1",
+          "media_key": "3_2067922013206032384",
+          "start": 23,
+          "url": "https://t.co/CgdF2NVkcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068572210969657659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067922020625793378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tired_8964: 经典永流传… https://t.co/CgdF2NVkcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2067922013206032384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK8HVxbMAAUkqq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067922013206032384"
+          ],
+          "media_source_tweet_id": [
+            "2067922020625793378"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "conversation_id": "2068572210969657659",
+        "created_at": "2026-06-21T05:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068572210969657659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513898402366439427",
+              "start": 3,
+              "username": "tired_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgdF2NVkcw",
+              "end": 46,
+              "expanded_url": "https://x.com/tired_8964/status/2067922020625793378/photo/1",
+              "media_key": "3_2067922013206032384",
+              "start": 23,
+              "url": "https://t.co/CgdF2NVkcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068572210969657659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067922020625793378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tired_8964: 经典永流传… https://t.co/CgdF2NVkcw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067922013206032384"
+          ]
+        },
+        "author_id": "1513898402366439427",
+        "conversation_id": "2067922020625793378",
+        "created_at": "2026-06-19T10:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067922020625793378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgdF2NVkcw",
+              "end": 30,
+              "expanded_url": "https://x.com/tired_8964/status/2067922020625793378/photo/1",
+              "media_key": "3_2067922013206032384",
+              "start": 7,
+              "url": "https://t.co/CgdF2NVkcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067922020625793378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 424478,
+          "like_count": 7447,
+          "quote_count": 28,
+          "reply_count": 311,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "经典永流传… https://t.co/CgdF2NVkcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 446,
+          "like_count": 13484,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "你哭什么，苦海无边；苦海无边，你哭什么？\n匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 49,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 26,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "name": "烦烦",
+        "pinned_tweet_id": "2050236261441642895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 311,
+          "like_count": 9846,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 4550
+        },
+        "url": "",
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

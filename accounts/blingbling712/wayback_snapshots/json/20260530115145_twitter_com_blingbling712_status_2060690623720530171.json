@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060690623720530171",
+    "created_at": "2026-05-30T11:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060690623720530171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/g_tinn68639/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/g_tinn68639/status/2060428551250235861",
+          "start": 22,
+          "url": "https://t.co/DDP1bWLQXN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060690623720530171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060428551250235861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次应该是小学的时候，感觉夹腿好舒服（） https://t.co/DDP1bWLQXN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060690623720530171",
+        "created_at": "2026-05-30T11:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060690623720530171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/g_tinn68639/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/g_tinn68639/status/2060428551250235861",
+              "start": 22,
+              "url": "https://t.co/DDP1bWLQXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060690623720530171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060428551250235861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次应该是小学的时候，感觉夹腿好舒服（） https://t.co/DDP1bWLQXN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939775795335225344",
+        "conversation_id": "2060428551250235861",
+        "created_at": "2026-05-29T18:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060428551250235861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060428551250235861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2716,
+          "impression_count": 1876331,
+          "like_count": 10482,
+          "quote_count": 83,
+          "reply_count": 295,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "第一次自慰是我初一的时候看h文然后感觉痒痒的就一直在夹腿，越来越爽，然后就到了，当时特别害怕以为自己尿尿了…就一直紧紧夹着，我靠超级爽的…然后跑到厕所看发现没有，后面才知道这叫夹腿自慰，一直到我现在大一了，我也一直这么干"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 406,
+          "like_count": 12605,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1628
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-30T19:59:39.000Z",
+        "description": "欢迎大家找我聊天૮₍ ˶•ᴗ•˶₎ა每天都会有好多碎碎念…私信随时都可以找我聊天分享嘿嘿◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "1939775795335225344",
+        "name": "悲伤鱼丸",
+        "pinned_tweet_id": "2060585586583310483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048460345468166144/kLyJJpv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 25,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 228
+        },
+        "username": "g_tinn68639",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2059291043540173291",
+    "created_at": "2026-05-26T15:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059296699999252718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059296699999252718",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059291043540173291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 唉，大手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059291002935070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQSQa8aUAARXqA.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2059291043540173291",
+        "created_at": "2026-05-26T15:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059296699999252718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059296699999252718",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059291043540173291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 唉，大手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059291002935070720"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059291043540173291",
+        "created_at": "2026-05-26T15:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059291043540173291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDKdRLCq2a",
+              "end": 27,
+              "expanded_url": "https://x.com/LanziiLove/status/2059291043540173291/photo/1",
+              "media_key": "3_2059291002935070720",
+              "start": 4,
+              "url": "https://t.co/JDKdRLCq2a"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/lanziilove/status/2059264088933581088",
+              "start": 28,
+              "url": "https://t.co/wNzhAa0bkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059291043540173291",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264088933581088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤗🤗🤗 https://t.co/JDKdRLCq2a https://t.co/wNzhAa0bkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 389,
+          "like_count": 12263,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 1597
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24891,
+          "following_count": 1218,
+          "like_count": 2904,
+          "listed_count": 77,
+          "media_count": 445,
+          "tweet_count": 2615
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

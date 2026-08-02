@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2036306208928244043",
+    "created_at": "2026-03-24T06:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036323190830444840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962556266196418560",
+          "start": 0,
+          "username": "HCl_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036323190830444840",
+    "in_reply_to_user_id": "1962556266196418560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036306208928244043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCl_Chen 好好看…想线下面基（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036306206428737536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJptLgbsAAqam2.jpg",
+        "width": 417
+      },
+      {
+        "height": 1258,
+        "media_key": "3_2036306206990671873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJptNmaIAEs7IG.jpg",
+        "width": 579
+      },
+      {
+        "height": 822,
+        "media_key": "3_2036306206357082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJptLPWUAAvNwZ.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2036306208928244043",
+        "created_at": "2026-03-24T06:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036323190830444840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962556266196418560",
+              "start": 0,
+              "username": "HCl_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036323190830444840",
+        "in_reply_to_user_id": "1962556266196418560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036306208928244043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCl_Chen 好好看…想线下面基（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036306206428737536",
+            "3_2036306206990671873",
+            "3_2036306206357082112"
+          ]
+        },
+        "author_id": "1962556266196418560",
+        "conversation_id": "2036306208928244043",
+        "created_at": "2026-03-24T04:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036306208928244043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "男娘"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "武装男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibq2ulFyjR",
+              "end": 93,
+              "expanded_url": "https://x.com/HCl_Chen/status/2036306208928244043/photo/1",
+              "media_key": "3_2036306206428737536",
+              "start": 70,
+              "url": "https://t.co/ibq2ulFyjR"
+            },
+            {
+              "display_url": "pic.x.com/ibq2ulFyjR",
+              "end": 93,
+              "expanded_url": "https://x.com/HCl_Chen/status/2036306208928244043/photo/1",
+              "media_key": "3_2036306206990671873",
+              "start": 70,
+              "url": "https://t.co/ibq2ulFyjR"
+            },
+            {
+              "display_url": "pic.x.com/ibq2ulFyjR",
+              "end": 93,
+              "expanded_url": "https://x.com/HCl_Chen/status/2036306208928244043/photo/1",
+              "media_key": "3_2036306206357082112",
+              "start": 70,
+              "url": "https://t.co/ibq2ulFyjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036306208928244043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我想对付十个男人是因为我只能数到十，现在我能对付十个男人因为战局只会有十个男人，剩下的子弹鞭尸 （感觉我看起来好呆）#男娘 #武装男娘 https://t.co/ibq2ulFyjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 231,
+          "like_count": 2905,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 539
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T16:41:00.000Z",
+        "description": "是稀盐酸\nA cup of 0.1M HCl(aq)\n前化竞人，BBO，BCHO，CCHO老登\n没闯出名堂的家伙\nUofTSG G1 LifeSci 在读\n好痛苦",
+        "id": "1962556266196418560",
+        "name": "HCl_HClO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629619783872521/Q3L3wRRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 115,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 433
+        },
+        "username": "HCl_Chen",
+        "verified": true
+      }
+    ]
+  }
+}

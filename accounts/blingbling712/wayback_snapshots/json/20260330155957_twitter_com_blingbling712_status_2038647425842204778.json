@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2038647425842204778",
+    "created_at": "2026-03-30T15:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038647425842204778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038647425842204778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038552751152754882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 四月一号要不整一个友跨愚人节，\n友跨顺性别在这一天被鼓励以刻板印象中对应跨性别的模样出门，比如说友跨顺女可以尝试经典药娘装+挂鱼板跨旗\n目前不考虑带非二元一起玩\n怎么样宝子们，我觉得可以让一部分有些自恨的跨自信一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2038647425842204778",
+        "created_at": "2026-03-30T15:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038647425842204778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038647425842204778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038552751152754882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 四月一号要不整一个友跨愚人节，\n友跨顺性别在这一天被鼓励以刻板印象中对应跨性别的模样出门，比如说友跨顺女可以尝试经典药娘装+挂鱼板跨旗\n目前不考虑带非二元一起玩\n怎么样宝子们，我觉得可以让一部分有些自恨的跨自信一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2038552751152754882",
+        "created_at": "2026-03-30T09:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038552751152754882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038552751152754882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3131,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "四月一号要不整一个友跨愚人节，\n友跨顺性别在这一天被鼓励以刻板印象中对应跨性别的模样出门，比如说友跨顺女可以尝试经典药娘装+挂鱼板跨旗\n目前不考虑带非二元一起玩\n怎么样宝子们，我觉得可以让一部分有些自恨的跨自信一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 250,
+          "like_count": 3837,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 627
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2038552751152754882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3970,
+          "following_count": 1416,
+          "like_count": 70734,
+          "listed_count": 4,
+          "media_count": 1008,
+          "tweet_count": 19776
+        },
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

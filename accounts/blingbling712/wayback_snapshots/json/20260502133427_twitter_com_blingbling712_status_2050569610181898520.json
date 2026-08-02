@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2050362155111940595",
+    "created_at": "2026-05-02T13:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050569610181898520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050569610181898520",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050362155111940595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 好窒息……抱抱你qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050362141463695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRZgR7aUAAbDND.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2050362155111940595",
+        "created_at": "2026-05-02T13:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050569610181898520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050569610181898520",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050362155111940595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 好窒息……抱抱你qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050362141463695360"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050362155111940595",
+        "created_at": "2026-05-01T23:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050362155111940595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsQIxZFJl1",
+              "end": 29,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2050362155111940595/photo/1",
+              "media_key": "3_2050362141463695360",
+              "start": 6,
+              "url": "https://t.co/ZsQIxZFJl1"
+            },
+            {
+              "display_url": "x.com/rimea_chord/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/rimea_chord/status/2050302581172568356",
+              "start": 30,
+              "url": "https://t.co/moRP4cRpz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050362155111940595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050302581172568356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又死爹了 https://t.co/ZsQIxZFJl1 https://t.co/moRP4cRpz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 349,
+          "like_count": 9463,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1356
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 16*cm 4*kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733008212193280/6tEmWEXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 142,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1266
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

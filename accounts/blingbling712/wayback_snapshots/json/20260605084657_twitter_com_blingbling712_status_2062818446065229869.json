@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2062818446065229869",
+    "created_at": "2026-06-05T08:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062818446065229869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1941131841899249664",
+          "start": 11,
+          "username": "YukiShimitsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062818446065229869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挨电还有直播环节吗（）@YukiShimitsu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2062818446065229869",
+        "created_at": "2026-06-05T08:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062818446065229869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1941131841899249664",
+              "start": 11,
+              "username": "YukiShimitsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062818446065229869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挨电还有直播环节吗（）@YukiShimitsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 441,
+          "like_count": 13265,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1730
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-04T13:48:33.000Z",
+        "description": "",
+        "id": "1941131841899249664",
+        "name": "清水柚希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941132026486353920/-DswjM58_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "YukiShimitsu",
+        "verified": false
+      }
+    ]
+  }
+}

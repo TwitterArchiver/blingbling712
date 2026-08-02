@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028854831440691429",
+    "created_at": "2026-03-04T00:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T01:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028988378859938004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028988378859938004",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028854831440691429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya 难受😭，怎么都走了😭，都走了我怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028854831440691429",
+        "created_at": "2026-03-04T00:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028988378859938004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028988378859938004",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028854831440691429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya 难受😭，怎么都走了😭，都走了我怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667798970700283904",
+        "conversation_id": "2028854831440691429",
+        "created_at": "2026-03-03T15:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028854831440691429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pnkozcn/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/pnkozcn/status/2028845964971348094",
+              "start": 15,
+              "url": "https://t.co/I2ymTpZjem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028854831440691429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1234,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028845964971348094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二个互关去世了...... https://t.co/I2ymTpZjem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 146,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / 无证mtf🏳️‍⚧️(hrt: 26.2.25-3.2,已炸柜)/宝宝@RainEngine2024（不建政/No Politics） (https://t.co/uTEFVtrfsV)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "RainEngine2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Sokei_ko_nya",
+                "end": 143,
+                "expanded_url": "https://www.youtube.com/@Sokei_ko_nya",
+                "start": 120,
+                "url": "https://t.co/uTEFVtrfsV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "2026929980295491781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1061,
+          "like_count": 56703,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

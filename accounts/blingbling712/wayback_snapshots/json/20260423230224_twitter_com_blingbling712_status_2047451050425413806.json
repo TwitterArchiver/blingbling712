@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2047205039098454498",
+    "created_at": "2026-04-23T23:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047451050425413806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752967634726064128",
+          "start": 0,
+          "username": "zhngdu248060122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047451050425413806",
+    "in_reply_to_user_id": "1752967634726064128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047205039098454498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngdu248060122 豆豉鲮鱼，不接受反驳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2047204998174625792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkiGWqaUAAQoQ8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2047205039098454498",
+        "created_at": "2026-04-23T23:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047451050425413806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752967634726064128",
+              "start": 0,
+              "username": "zhngdu248060122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047451050425413806",
+        "in_reply_to_user_id": "1752967634726064128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047205039098454498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngdu248060122 豆豉鲮鱼，不接受反驳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047204998174625792"
+          ]
+        },
+        "author_id": "1752967634726064128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047205039098454498",
+        "created_at": "2026-04-23T06:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047205039098454498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7q7OCU69e",
+              "end": 43,
+              "expanded_url": "https://x.com/zhngdu248060122/status/2047205039098454498/photo/1",
+              "media_key": "3_2047204998174625792",
+              "start": 20,
+              "url": "https://t.co/t7q7OCU69e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047205039098454498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 66060,
+          "like_count": 230,
+          "quote_count": 22,
+          "reply_count": 643,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大米饭如果只能配一个菜，你会选什么菜？ https://t.co/t7q7OCU69e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 309,
+          "like_count": 7578,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1110
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-01T08:10:48.000Z",
+        "description": "",
+        "id": "1752967634726064128",
+        "name": "阿文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753012265522278400/8sjLiGGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7703,
+          "following_count": 5603,
+          "like_count": 7862,
+          "listed_count": 10,
+          "media_count": 2975,
+          "tweet_count": 9751
+        },
+        "username": "zhngdu248060122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052927158713004032"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "conversation_id": "2052927166816387310",
+    "created_at": "2026-05-09T01:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052927166816387310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1534773109940789248",
+          "start": 2,
+          "username": "rainchngshainn"
+        },
+        {
+          "end": 30,
+          "id": "1990582437282525187",
+          "start": 18,
+          "username": "YeChuan1123"
+        },
+        {
+          "end": 44,
+          "id": "2041159531657416704",
+          "start": 31,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDB4kH8tyW",
+          "end": 68,
+          "expanded_url": "https://x.com/blingbling712/status/2052927166816387310/photo/1",
+          "media_key": "3_2052927158713004032",
+          "start": 45,
+          "url": "https://t.co/WDB4kH8tyW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052927166816387310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开心@rainchngshainn @YeChuan1123 @amber_digit2 https://t.co/WDB4kH8tyW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1910,
+        "media_key": "3_2052927158713004032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH12X7zXMAAdqGs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052927158713004032"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "conversation_id": "2052927166816387310",
+        "created_at": "2026-05-09T01:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052927166816387310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1534773109940789248",
+              "start": 2,
+              "username": "rainchngshainn"
+            },
+            {
+              "end": 30,
+              "id": "1990582437282525187",
+              "start": 18,
+              "username": "YeChuan1123"
+            },
+            {
+              "end": 44,
+              "id": "2041159531657416704",
+              "start": 31,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDB4kH8tyW",
+              "end": 68,
+              "expanded_url": "https://x.com/blingbling712/status/2052927166816387310/photo/1",
+              "media_key": "3_2052927158713004032",
+              "start": 45,
+              "url": "https://t.co/WDB4kH8tyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052927166816387310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开心@rainchngshainn @YeChuan1123 @amber_digit2 https://t.co/WDB4kH8tyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 375,
+          "like_count": 10782,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 1510
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的见习女生 ≽^•⩊•^≼ 🏳️‍⚧️ 🇨🇦 大一生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！好妹妹🥰：@blingbling712 好姐姐🥹：@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "blingbling712"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 699,
+          "like_count": 8684,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1105
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🇨🇦 🎀Love mizuki & Sylveon🎀\n超级碎碎念…同类互fo🏳️‍⚧️ MTF 中文/Eng /日本語(勉強中 \n*💖超喜欢好小猫@Rainchngshainn\n*💝超可爱！最爱的小对象@blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 93,
+                "username": "Rainchngshainn"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2051931929134420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051271509629378560/N17TBa3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 277,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "备用 @medusozoa_amber\n也可以直接私信那由 @noaayoyaoaya\n公开频道: https://t.co/9vOZUHGUOo\n\nhttps://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "medusozoa_amber"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 73,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 50,
+                "url": "https://t.co/9vOZUHGUOo"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 98,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 75,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/Mu7nsgG4NQ"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 79,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Mu7nsgG4NQ",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

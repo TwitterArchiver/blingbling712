@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2065123294286635351",
+    "created_at": "2026-06-12T02:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065263402990080257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596798310785978369",
+          "start": 0,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065263402990080257",
+    "in_reply_to_user_id": "1596798310785978369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065210425923543158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeanormalppl 因为还差几千块（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2065123294286635351",
+        "created_at": "2026-06-12T02:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065263402990080257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596798310785978369",
+              "start": 0,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065263402990080257",
+        "in_reply_to_user_id": "1596798310785978369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065210425923543158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeanormalppl 因为还差几千块（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2065123294286635351",
+        "created_at": "2026-06-11T23:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065210425923543158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065210425923543158",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065123294286635351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 什么资产证明几千块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 437,
+          "like_count": 13438,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1746
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "脑雾，解离，精神不稳定，休学状态，正在挣扎着想要回归平静的日常生活的一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc学习中 | 恋人：@XI2VANAS\n提问箱：https://t.co/qU3XmbiiB0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "XI2VANAS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maybeanormalpp…",
+                "end": 142,
+                "expanded_url": "https://ngl.link/maybeanormalppl49233",
+                "start": 119,
+                "url": "https://t.co/qU3XmbiiB0"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "a normal ppl",
+        "pinned_tweet_id": "2056998303233880502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 703,
+          "like_count": 15915,
+          "listed_count": 6,
+          "media_count": 964,
+          "tweet_count": 20497
+        },
+        "username": "maybeanormalppl",
+        "verified": true
+      }
+    ]
+  }
+}

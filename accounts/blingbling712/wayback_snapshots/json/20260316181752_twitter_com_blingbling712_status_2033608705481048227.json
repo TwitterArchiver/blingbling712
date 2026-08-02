@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2033423018094190917",
+    "created_at": "2026-03-16T18:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033608705481048227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        },
+        {
+          "end": 18,
+          "id": "1465183862510604291",
+          "start": 9,
+          "username": "nanno_64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033608705481048227",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033423018094190917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot @nanno_64 诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2640,
+        "height": 768,
+        "media_key": "13_2033062171815587845",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033062171815587845/img/ZW6AxqjXGLb-ok5f.jpg",
+        "public_metrics": {
+          "view_count": 476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033062171815587845/vid/avc1/768x768/JVbgu_hG36PFqimQ.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033062171815587845/vid/avc1/320x320/5T_a74Yr28hUHS9A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033062171815587845/pl/F0DCPNJidzaNM3df.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033062171815587845/vid/avc1/540x540/Kyajdb2gAOXbFYJ3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033062171815587845/vid/avc1/720x720/AxAF9kwtfV--xmU1.mp4"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2033423018094190917",
+        "created_at": "2026-03-16T18:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033608705481048227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 18,
+              "id": "1465183862510604291",
+              "start": 9,
+              "username": "nanno_64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033608705481048227",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033423018094190917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @nanno_64 诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033062171815587845"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2033423018094190917",
+        "created_at": "2026-03-16T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033423018094190917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1465183862510604291",
+              "start": 85,
+              "username": "nanno_64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ADxSVC74q",
+              "end": 134,
+              "expanded_url": "https://x.com/acnekot/status/2033423018094190917/video/1",
+              "media_key": "13_2033062171815587845",
+              "start": 111,
+              "url": "https://t.co/8ADxSVC74q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033423018094190917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 94,
+                "id": "1465183862510604291",
+                "start": 85,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "text": "第二批抽奖w\n抽5个人打它的头像的吧唧（可指定图片(见证/敏感不可\n包邮，如果抽到海外也尽量包邮出去\n如果不方便可以折现8元w\n关注评论就可以参与\n3月30号截止\n如果和@nanno_64是互关可以直接领取一个（限3人）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2008,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "第二批抽奖w\n抽5个人打它的头像的吧唧（可指定图片(见证/敏感不可\n包邮，如果抽到海外也尽量包邮出去\n如果不方便可以折现8元w\n关注评论就可以参与\n3月30号截止\n如果和@nanno_64是互关可以直接领取一个（限3人） https://t.co/8ADxSVC74q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 195,
+          "like_count": 1737,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 376
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 781,
+          "like_count": 85425,
+          "listed_count": 6,
+          "media_count": 3073,
+          "tweet_count": 14049
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-29T05:00:40.000Z",
+        "description": "是@acnekot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "acnekot"
+              }
+            ]
+          }
+        },
+        "id": "1465183862510604291",
+        "name": "Fluffy-Snow-3323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029944934632177664/SFR6cnOn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 83,
+          "like_count": 3699,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 852
+        },
+        "username": "nanno_64",
+        "verified": false
+      }
+    ]
+  }
+}

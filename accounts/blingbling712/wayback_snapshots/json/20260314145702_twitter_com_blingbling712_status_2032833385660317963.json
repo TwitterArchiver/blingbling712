@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2032460526404460871",
+    "created_at": "2026-03-14T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032833385660317963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972170764",
+          "start": 0,
+          "username": "mingo_christian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032833385660317963",
+    "in_reply_to_user_id": "1972170764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032825618166067273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingo_christian 我都20了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2032460526404460871",
+        "created_at": "2026-03-14T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032833385660317963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972170764",
+              "start": 0,
+              "username": "mingo_christian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032833385660317963",
+        "in_reply_to_user_id": "1972170764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032825618166067273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingo_christian 我都20了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972170764",
+        "conversation_id": "2032460526404460871",
+        "created_at": "2026-03-14T14:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032825618166067273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032825618166067273",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032460526404460871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 前提是成年吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜中焦中抑｜不od｜184｜66kg｜同类互fo｜锦衣卫｜洛天依｜infp｜she/her｜推用来当日记碎碎念｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 192,
+          "like_count": 1344,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 336
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-19T16:46:02.000Z",
+        "description": "❤微信： 1666245601\n❤TG客服: https://t.co/O0UQL5gqvb \n全球一站式药房：印度💊老挝💊孟加拉💊土耳其💊日本💊泰国💊欧美💊各种冷门药、常规药、处方药、靶向药、HRT糖、HIV糖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/boyprep_bot",
+                "end": 46,
+                "expanded_url": "https://t.me/boyprep_bot",
+                "start": 23,
+                "url": "https://t.co/O0UQL5gqvb"
+              }
+            ]
+          }
+        },
+        "id": "1972170764",
+        "location": "1km",
+        "name": "【在线版】环球HRT药房凝胶 泰补 土色 日雌 pep 达可辉 舒发泰 必妥维 多伟托 prep",
+        "pinned_tweet_id": "2026487804369449079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023682834356203526/l2F4_rcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 12,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 83
+        },
+        "username": "mingo_christian",
+        "verified": false
+      }
+    ]
+  }
+}

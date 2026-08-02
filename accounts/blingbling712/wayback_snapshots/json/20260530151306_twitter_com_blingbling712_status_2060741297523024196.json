@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2060655433920970808",
+    "created_at": "2026-05-30T15:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060741297523024196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        },
+        {
+          "end": 24,
+          "id": "1468298719447887872",
+          "start": 11,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060741297523024196",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060688905561641171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela @dviolettchan 有的有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-30T15:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060741297523024196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 24,
+              "id": "1468298719447887872",
+              "start": 11,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060741297523024196",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060688905561641171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @dviolettchan 有的有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-30T11:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060688905561641171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060688905561641171",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060682333829656812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan 我是小Rika，没有粉丝（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 409,
+          "like_count": 12685,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1631
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 3787,
+          "like_count": 85545,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9654
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服爱好者 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | 与欣宝一起期待更温柔的世界 | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 560,
+          "like_count": 11001,
+          "listed_count": 12,
+          "media_count": 59,
+          "tweet_count": 4674
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

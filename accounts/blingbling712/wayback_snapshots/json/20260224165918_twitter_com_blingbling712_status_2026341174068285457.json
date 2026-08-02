@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2026150821600305305",
+    "created_at": "2026-02-24T16:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026341174068285457"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "恭喜",
+          "probability": 0.5125,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837438371603664899",
+          "start": 0,
+          "username": "chenxi752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026341174068285457",
+    "in_reply_to_user_id": "1837438371603664899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026150821600305305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenxi752 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12051,
+        "height": 720,
+        "media_key": "7_2026150806840561664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026150806840561664/pu/img/dWPNlf2RxH44CCTj.jpg",
+        "public_metrics": {
+          "view_count": 1052
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026150806840561664/pu/vid/avc1/320x320/Sl-C5J6-HuAy7SCB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026150806840561664/pu/vid/avc1/540x540/dzV4ruv7Q92GgP5A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026150806840561664/pu/vid/avc1/720x720/Bb1miEJlhuc67vf-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026150806840561664/pu/pl/Kw0a_3mMrAv2e7s-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2026150821600305305",
+        "created_at": "2026-02-24T16:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026341174068285457"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "恭喜",
+              "probability": 0.5125,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837438371603664899",
+              "start": 0,
+              "username": "chenxi752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026341174068285457",
+        "in_reply_to_user_id": "1837438371603664899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026150821600305305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenxi752 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026150806840561664"
+          ]
+        },
+        "author_id": "1837438371603664899",
+        "conversation_id": "2026150821600305305",
+        "created_at": "2026-02-24T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026150821600305305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9zS5xiWkv",
+              "end": 36,
+              "expanded_url": "https://x.com/chenxi752/status/2026150821600305305/video/1",
+              "media_key": "7_2026150806840561664",
+              "start": 13,
+              "url": "https://t.co/d9zS5xiWkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026150821600305305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3044,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了这一刻我已经等了7年 https://t.co/d9zS5xiWkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜185｜67kg｜互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 73,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-21T10:27:22.000Z",
+        "description": "05 169cm 62kg    跨直女   | 无浪漫异性恋 |  | ISFJ |  | SRS | | 超爱锅巴伽波 | | 2026.2.22生日 | | 坐标苏北 |  🏳️‍⚧️",
+        "id": "1837438371603664899",
+        "location": "日本 大阪市",
+        "name": "熙熙爱吃糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908384793492152325/O0kQJ7sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2277,
+          "like_count": 474,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 254
+        },
+        "username": "chenxi752",
+        "verified": false
+      }
+    ]
+  }
+}

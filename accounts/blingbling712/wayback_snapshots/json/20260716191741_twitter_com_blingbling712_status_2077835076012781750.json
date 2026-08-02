@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2075197103643705690",
+    "created_at": "2026-07-16T19:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077835076012781750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032475934947975168",
+          "start": 0,
+          "username": "SuSu__OVOciallo"
+        },
+        {
+          "end": 28,
+          "id": "1510447851507261445",
+          "start": 17,
+          "username": "LanziiLove"
+        },
+        {
+          "end": 38,
+          "id": "1915622690653954048",
+          "start": 29,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077835076012781750",
+    "in_reply_to_user_id": "2032475934947975168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077754072376242493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuSu__OVOciallo @LanziiLove @dexy0306 就是，自称顺男的开始hrt了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-16T19:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077835076012781750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032475934947975168",
+              "start": 0,
+              "username": "SuSu__OVOciallo"
+            },
+            {
+              "end": 28,
+              "id": "1510447851507261445",
+              "start": 17,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 38,
+              "id": "1915622690653954048",
+              "start": 29,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077835076012781750",
+        "in_reply_to_user_id": "2032475934947975168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077754072376242493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuSu__OVOciallo @LanziiLove @dexy0306 就是，自称顺男的开始hrt了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032475934947975168",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-16T13:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077754072376242493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            },
+            {
+              "end": 26,
+              "id": "1510447851507261445",
+              "start": 15,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 36,
+              "id": "1915622690653954048",
+              "start": 27,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2077754072376242493",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075384981451395205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 @LanziiLove @dexy0306 翻车车是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her |最爱的💖@YeChuan1123｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 456,
+          "like_count": 13792,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1800
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T15:17:04.000Z",
+        "description": "🇨🇳/关注我的基本都会回关/🏳️‍⚧️mtf/🍥hrt/已出柜/不od/一辈子的爱人！@KareQ1013/撞大运可以转生异世界当美少女吗？/让我烂在床上吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "KareQ1013"
+              }
+            ]
+          }
+        },
+        "id": "2032475934947975168",
+        "name": "蘇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039407039072681984/83S5ARqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 117,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "SuSu__OVOciallo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27788,
+          "following_count": 1582,
+          "like_count": 3505,
+          "listed_count": 80,
+          "media_count": 489,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 7,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

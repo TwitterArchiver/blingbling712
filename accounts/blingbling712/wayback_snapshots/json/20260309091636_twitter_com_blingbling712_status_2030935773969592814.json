@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2030935773969592814",
+    "created_at": "2026-03-09T09:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030935773969592814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daqiangshushu/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/daqiangshushu/status/2030569886528008251",
+          "start": 21,
+          "url": "https://t.co/G3duGKzfum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030935773969592814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030569886528008251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "撸不知道，反正上次色色都是两周前的事情了 https://t.co/G3duGKzfum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2030935773969592814",
+        "created_at": "2026-03-09T09:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030935773969592814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daqiangshushu/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/daqiangshushu/status/2030569886528008251",
+              "start": 21,
+              "url": "https://t.co/G3duGKzfum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030935773969592814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030569886528008251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撸不知道，反正上次色色都是两周前的事情了 https://t.co/G3duGKzfum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007737580549451776",
+        "conversation_id": "2030569886528008251",
+        "created_at": "2026-03-08T09:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030569886528008251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030569886528008251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5064,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我敢说绝大多数人，我目测超过8成以上，成年后没有超过半月不打一次飞机或不跟另一个人合作射一发的。成年人能忍两周不撸的，都是自律极品了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp｜某些男的滚别逼我骂你",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 170,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 177
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-04T08:55:25.000Z",
+        "description": "情感博主，咨询师、教练，26年性少数社群服务经验，纪录片导演，曾经的专栏作者。",
+        "id": "2007737580549451776",
+        "location": "HK",
+        "name": "大强子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007737846279655424/asmnjANp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 3284,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1319
+        },
+        "username": "Daqiangshushu",
+        "verified": true
+      }
+    ]
+  }
+}

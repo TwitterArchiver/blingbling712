@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2040310826863902797",
+    "created_at": "2026-04-04T20:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T21:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040523374472888536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040523374472888536",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040310826863902797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 第一次就是夹腿+压床（）两年后才发现顺直男的方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2040310826863902797",
+        "created_at": "2026-04-04T20:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T21:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040523374472888536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040523374472888536",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040310826863902797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 第一次就是夹腿+压床（）两年后才发现顺直男的方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2040310826863902797",
+        "created_at": "2026-04-04T06:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040310826863902797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040310826863902797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 80088,
+          "like_count": 332,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候的自慰手段是把牛子夹到大腿中间然后用中指跟无名指按按按扣扣扣。似乎跟导管子还不太一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 258,
+          "like_count": 4556,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 693
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "18y.o. | 新疆東鄉族 | 無神論者⚛️ | 生理男心理男 | Femboy enjoyer 💜 | 182cm59kg | ROC💙🇹🇼❂&Anti-☭ \n\n好厚米🇲🇴@letana358121 对象♥️@juhao0721  |7kfo🔞小號@AzureV1xen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "letana358121"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "juhao0721"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "AzureV1xen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/kcdSvvyr8N"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 589,
+          "like_count": 16617,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 5883
+        },
+        "url": "https://t.co/kcdSvvyr8N",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

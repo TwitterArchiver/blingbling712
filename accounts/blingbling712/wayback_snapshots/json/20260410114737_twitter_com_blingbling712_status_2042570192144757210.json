@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2042432163174310027",
+    "created_at": "2026-04-10T11:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042570192144757210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042570192144757210",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042432163174310027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 说实话这个更加适合我（哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042432163174310027",
+        "created_at": "2026-04-10T11:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042570192144757210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042570192144757210",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042432163174310027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 说实话这个更加适合我（哭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2042432163174310027",
+        "created_at": "2026-04-10T02:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042432163174310027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blingbling712/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/blingbling712/status/2042424424507257034",
+              "start": 49,
+              "url": "https://t.co/yCHi01yoC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042432163174310027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 646,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042424424507257034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当白高瘦优雅大姐姐，我想身宽直缩五厘米，身高直降零厘米，厚度和骨骼什么的总之也看比例稍微缩小 https://t.co/yCHi01yoC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 279,
+          "like_count": 5183,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 785
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @tttbagent",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "tttbagent"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 695,
+          "like_count": 1924,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1343
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

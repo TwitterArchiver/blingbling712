@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2042722120094884009",
+    "created_at": "2026-04-10T22:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042725468802105696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042725468802105696",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042723269267112377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想被掐着脖子，按在床上艹，最好还带着电（）大腿因为电的刺激不自觉的夹紧，大脑被窒息感和快感轮流冲击，被揉胸想要逃跑，但因为双手无力又逃不掉，想要求饶但又说不出话，只能无助的发出哼哼唧唧的声音（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042722120094884009",
+        "created_at": "2026-04-10T22:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042725468802105696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042725468802105696",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042723269267112377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想被掐着脖子，按在床上艹，最好还带着电（）大腿因为电的刺激不自觉的夹紧，大脑被窒息感和快感轮流冲击，被揉胸想要逃跑，但因为双手无力又逃不掉，想要求饶但又说不出话，只能无助的发出哼哼唧唧的声音（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042722120094884009",
+        "created_at": "2026-04-10T21:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042723269267112377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042723269267112377",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042722120094884009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fq了qwq，呜呜呜我也想被玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 278,
+          "like_count": 5287,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 796
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

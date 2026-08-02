@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2047773355818770811",
+    "created_at": "2026-04-25T17:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048098547279794649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048098547279794649",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047773355818770811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama （按住手）不许抽烟划手od！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2047773355818770811",
+        "created_at": "2026-04-25T17:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048098547279794649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048098547279794649",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047773355818770811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama （按住手）不许抽烟划手od！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047773355818770811",
+        "created_at": "2026-04-24T20:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047773355818770811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047773355818770811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人劝小猫不要抽烟喝酒划手od的时候\n都会感觉很… 好？ \n有种被在乎的感觉\n不过多劝几次\n这些声音也就慢慢消亡了\n毕竟明知道小猫劝不动的了\n就是犟精一个\n大家的生活都很累的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 311,
+          "like_count": 7764,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1138
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "07 🏳️‍⚧️ mtx/f\n可以叫我小猫/sophie\n好姐姐 @tingxinzhongyu 小号 @sophhhsama2 现生朋友 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 372,
+          "like_count": 13950,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

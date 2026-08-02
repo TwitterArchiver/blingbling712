@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2042793163933237447",
+    "created_at": "2026-04-12T01:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043137050124112097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 27,
+          "id": "1766644305660420096",
+          "start": 14,
+          "username": "suikachanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043137050124112097",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043128406913474948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @suikachanqwq 所以我不是男人😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042793163933237447",
+        "created_at": "2026-04-12T01:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043137050124112097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 27,
+              "id": "1766644305660420096",
+              "start": 14,
+              "username": "suikachanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043137050124112097",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043128406913474948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @suikachanqwq 所以我不是男人😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2042793163933237447",
+        "created_at": "2026-04-12T00:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043128406913474948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            },
+            {
+              "end": 28,
+              "id": "1766644305660420096",
+              "start": 15,
+              "username": "suikachanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043128406913474948",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793163933237447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 @suikachanqwq 每个人都一样，坚持下去才叫本事\n冯了个福的的这两句听不得叫什么男人\n20世纪在你这个年纪，甚至有些人已经在战场上了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 280,
+          "like_count": 5568,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 827
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "全宇宙最欠揍的人类，屏蔽我的人可以从这里排到伦敦，我的恶行从爱尔兰到契丹无人不知无人不晓\n在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 Anti-trans，恐虐麾下出场，纳垢锅里喝汤，奸奇桌前分账，色孽闺中睡床，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2041678287550754935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 196,
+          "like_count": 5790,
+          "listed_count": 1,
+          "media_count": 634,
+          "tweet_count": 3984
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́穩̶̼̲͒定̵̳̑͘\n我是小貓🐱\n高一/🏳️‍⚧️MtF/座標上海/\nhrt🍥114.09.30/🍰98.12.22/家長否定/181/斷糖/國男\n左翼民國派🇹🇼\n抱抱可愛的姊姊們 @xshxXXXXXXX @Yyyyy_pog @Alian123_mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Alian123_mtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "小貓民國　上海市",
+        "name": "すいかちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020799650144415825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040622993647550464/tyymAl98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1769,
+          "like_count": 14526,
+          "listed_count": 4,
+          "media_count": 378,
+          "tweet_count": 7720
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikachanqwq",
+        "verified": true
+      }
+    ]
+  }
+}

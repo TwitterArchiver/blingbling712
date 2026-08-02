@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2042771187508388148",
+    "created_at": "2026-04-11T01:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042771187508388148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "965583779380129792",
+          "start": 3,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042771187508388148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042354703460417875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mario_2333: 好吧虽然公开说了出来但是依然没能成功克服不喜欢去看医生这个可能是已知最大的心理问题，预约又取消3次了还是算了，反正应该也没啥的（…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042771187508388148",
+        "created_at": "2026-04-11T01:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042771187508388148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "965583779380129792",
+              "start": 3,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042771187508388148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042354703460417875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mario_2333: 好吧虽然公开说了出来但是依然没能成功克服不喜欢去看医生这个可能是已知最大的心理问题，预约又取消3次了还是算了，反正应该也没啥的（…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2042354703460417875",
+        "created_at": "2026-04-09T21:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042354703460417875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042354703460417875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好吧虽然公开说了出来但是依然没能成功克服不喜欢去看医生这个可能是已知最大的心理问题，预约又取消3次了还是算了，反正应该也没啥的（\n\n虽然我能分析出我底层代码里带点极端不愿意给别人添麻烦的心理，以及习惯性觉得我的痛苦不重要除非任何人都觉得无法忍受，以及害怕提出要求会被别人嫌弃，也知道大概的成因\n\n并且理性上我也完全了解大部分人去医院都只是预防性检查没什么大问题，医生也绝对不会因为病的不严重就批评我，而且我付了费就应该享受合理的服务……但是还是只有身体问题到触发求生本能的时候才能把心理障碍压制下去（\n\n人生中仅有的几次去医院，一次是大学感觉快死了查出低血钾，再上次是高中相当严重的心律不齐和胃溃疡，再上次是小学发烧爬出了房子打了求救电话然后失去意识，然后就没了应该就只有再小的时候记不清楚的了\n\n并且去的时候也会非常轻描淡写，心理上依然觉得我的痛苦是没有意义的，只有客观检验结果才有说服力…这样可能也会比较误导诊断，但是还是没办法克服被认为承受能力不够强的恐惧，还是希望会被医生认为坚强和懂事，虽然理性分析也知道这些全都是错误的，就是一点改不掉，哎呀\n\n甚至这个可能是唯一我没办法自我修复的心理问题导致我去心理咨询的可能性为0…真是这辈子有了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1562,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吧虽然公开说了出来但是依然没能成功克服不喜欢去看医生这个可能是已知最大的心理问题，预约又取消3次了还是算了，反正应该也没啥的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 278,
+          "like_count": 5366,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 802
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | Follow ≠ Endorsement⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 263,
+          "like_count": 44757,
+          "listed_count": 15,
+          "media_count": 939,
+          "tweet_count": 14511
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

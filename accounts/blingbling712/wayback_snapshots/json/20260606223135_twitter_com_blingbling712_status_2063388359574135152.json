@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2063079332726362470",
+    "created_at": "2026-06-06T22:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T23:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063388359574135152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956760772291579904",
+          "start": 0,
+          "username": "catower233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063388359574135152",
+    "in_reply_to_user_id": "1956760772291579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063079332726362470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catower233 咦这不是蓝贝嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063079329542934528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGHuDTbkAARAlt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2063079332726362470",
+        "created_at": "2026-06-06T22:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063388359574135152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956760772291579904",
+              "start": 0,
+              "username": "catower233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063388359574135152",
+        "in_reply_to_user_id": "1956760772291579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063079332726362470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catower233 咦这不是蓝贝嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063079329542934528"
+          ]
+        },
+        "author_id": "1956760772291579904",
+        "conversation_id": "2063079332726362470",
+        "created_at": "2026-06-06T02:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063079332726362470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vk0raTK0vD",
+              "end": 44,
+              "expanded_url": "https://x.com/catower233/status/2063079332726362470/photo/1",
+              "media_key": "3_2063079329542934528",
+              "start": 21,
+              "url": "https://t.co/Vk0raTK0vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063079332726362470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 925,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，红贝修眉刀真好用啊，刀真快真舒服啊 https://t.co/Vk0raTK0vD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 440,
+          "like_count": 13316,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1735
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T16:51:47.000Z",
+        "description": "🇨🇦🏳️‍⚧️ 最爱🍅还有@Yuko0Ruuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Yuko0Ruuu"
+              }
+            ]
+          }
+        },
+        "id": "1956760772291579904",
+        "location": "Waterloo, Ontario",
+        "name": "猫塔塔塔塔🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062073424324001794/2WMiYuNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 289,
+          "like_count": 16570,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 2935
+        },
+        "username": "catower233",
+        "verified": true
+      }
+    ]
+  }
+}

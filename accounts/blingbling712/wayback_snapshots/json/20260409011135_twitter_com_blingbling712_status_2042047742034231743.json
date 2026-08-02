@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2042043226430042116",
+    "created_at": "2026-04-09T01:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042047742034231743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042047742034231743",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042043226430042116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme 从吓到了改成吓软了嘛（🤔）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042040649084760065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbJJrGa8AE2PXJ.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2042043226430042116",
+        "created_at": "2026-04-09T01:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042047742034231743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042047742034231743",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042043226430042116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme 从吓到了改成吓软了嘛（🤔）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042040649084760065"
+          ]
+        },
+        "author_id": "2029891270861299712",
+        "conversation_id": "2042043226430042116",
+        "created_at": "2026-04-09T00:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:43:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042040656680644883",
+          "2042043226430042116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTKzMGfpce",
+              "end": 66,
+              "expanded_url": "https://x.com/JoelQinmetme/status/2042043226430042116/photo/1",
+              "media_key": "3_2042040649084760065",
+              "start": 43,
+              "url": "https://t.co/CTKzMGfpce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042043226430042116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "看到这个聊天记录人家瞬间吓软了www～😳  \n原来还有不让点外卖的大学呀～www🍥✨ https://t.co/CTKzMGfpce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 276,
+          "like_count": 5042,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 757
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜生产日期2009.05.26｜小号@espakoala｜姐姐@ElysiumFengxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "espakoala"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039624648527397097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1330,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 440
+        },
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

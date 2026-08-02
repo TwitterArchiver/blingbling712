@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2027255581933994427",
+    "created_at": "2026-02-27T17:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027435685989208170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004949131450867712",
+          "start": 0,
+          "username": "xersy37737"
+        },
+        {
+          "end": 24,
+          "id": "1780369819310981120",
+          "start": 12,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027435685989208170",
+    "in_reply_to_user_id": "2004949131450867712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027269307634221096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xersy37737 @520illusion 没有，最多是情绪会更加敏感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2027255581933994427",
+        "created_at": "2026-02-27T17:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027435685989208170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004949131450867712",
+              "start": 0,
+              "username": "xersy37737"
+            },
+            {
+              "end": 24,
+              "id": "1780369819310981120",
+              "start": 12,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435685989208170",
+        "in_reply_to_user_id": "2004949131450867712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027269307634221096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xersy37737 @520illusion 没有，最多是情绪会更加敏感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2027255581933994427",
+        "created_at": "2026-02-27T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027269307634221096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027269307634221096",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1806,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027255581933994427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 雌二醇真有正面buff吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜超大只不可爱｜不od不割手｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 118,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Programer,AI developer and artist.",
+        "id": "2004949131450867712",
+        "name": "Xersy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013299991998054400/6goOybG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 78
+        },
+        "username": "xersy37737",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "所有的过去都将成为背景 迎接即将破晓的黎明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市鄞州中学高三9班",
+        "name": "ill🏳‍⚧",
+        "pinned_tweet_id": "2025864560574595570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027297969100500992/lla9gw6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 457,
+          "like_count": 7771,
+          "listed_count": 7,
+          "media_count": 620,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

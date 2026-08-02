@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047449021577646081"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047449023888736262",
+    "created_at": "2026-04-23T22:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T23:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047449023888736262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mr0QgJYaTr",
+          "end": 38,
+          "expanded_url": "https://x.com/blingbling712/status/2047449023888736262/photo/1",
+          "media_key": "3_2047449021577646081",
+          "start": 15,
+          "url": "https://t.co/mr0QgJYaTr"
+        },
+        {
+          "display_url": "x.com/sophhhsama/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/sophhhsama/status/2047284603467989064",
+          "start": 39,
+          "url": "https://t.co/oBwSLv9l6g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047449023888736262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047284603467989064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老吃家（）主打个什么都吃（） https://t.co/mr0QgJYaTr https://t.co/oBwSLv9l6g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2047449021577646081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoACYrbUAEOurd.jpg",
+        "width": 1200
+      },
+      {
+        "height": 545,
+        "media_key": "3_2047284589182263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlqfKRXIAA2MCG.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047449021577646081"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047449023888736262",
+        "created_at": "2026-04-23T22:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047449023888736262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mr0QgJYaTr",
+              "end": 38,
+              "expanded_url": "https://x.com/blingbling712/status/2047449023888736262/photo/1",
+              "media_key": "3_2047449021577646081",
+              "start": 15,
+              "url": "https://t.co/mr0QgJYaTr"
+            },
+            {
+              "display_url": "x.com/sophhhsama/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/sophhhsama/status/2047284603467989064",
+              "start": 39,
+              "url": "https://t.co/oBwSLv9l6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047449023888736262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047284603467989064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老吃家（）主打个什么都吃（） https://t.co/mr0QgJYaTr https://t.co/oBwSLv9l6g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047284589182263296"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2047284603467989064",
+        "created_at": "2026-04-23T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047284603467989064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VI2uzR5SvJ",
+              "end": 31,
+              "expanded_url": "https://x.com/sophhhsama/status/2047284603467989064/photo/1",
+              "media_key": "3_2047284589182263296",
+              "start": 8,
+              "url": "https://t.co/VI2uzR5SvJ"
+            },
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2047280496087036043",
+              "start": 32,
+              "url": "https://t.co/vn5pVV5GHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047284603467989064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047280496087036043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小猫挺能吃的w https://t.co/VI2uzR5SvJ https://t.co/vn5pVV5GHM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 309,
+          "like_count": 7570,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1106
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/修猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu98DVS"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 361,
+          "like_count": 13565,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/IVCvu98DVS",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

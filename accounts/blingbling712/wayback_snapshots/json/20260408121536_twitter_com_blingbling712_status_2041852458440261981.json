@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2041852458440261981",
+    "created_at": "2026-04-08T12:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041852458440261981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041852458440261981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041839853072175398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: HRT以来，经常感到内心非常宁静，能更清楚的感知未经睾酮过滤后的情绪，不会再有莫名的性欲，而是期待爱的人开启\n但这份变化对我来说是新生也是归还，新生来自过往的男性躯体涵涵，归还则是这本该是我应有的\n你本就是她，去遵循本心吧，她不会催促你🤗。愿大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2041852458440261981",
+        "created_at": "2026-04-08T12:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041852458440261981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041852458440261981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041839853072175398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: HRT以来，经常感到内心非常宁静，能更清楚的感知未经睾酮过滤后的情绪，不会再有莫名的性欲，而是期待爱的人开启\n但这份变化对我来说是新生也是归还，新生来自过往的男性躯体涵涵，归还则是这本该是我应有的\n你本就是她，去遵循本心吧，她不会催促你🤗。愿大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041839853072175398",
+        "created_at": "2026-04-08T11:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041839853072175398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041839853072175398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 211,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "HRT以来，经常感到内心非常宁静，能更清楚的感知未经睾酮过滤后的情绪，不会再有莫名的性欲，而是期待爱的人开启\n但这份变化对我来说是新生也是归还，新生来自过往的男性躯体涵涵，归还则是这本该是我应有的\n你本就是她，去遵循本心吧，她不会催促你🤗。愿大家不被焦虑裹挟，不成为“尺子”丈量下的“她”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜半炸柜｜sub｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 270,
+          "like_count": 4980,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 743
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 594,
+          "like_count": 1984,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

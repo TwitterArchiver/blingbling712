@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2062399511289340253",
+    "created_at": "2026-06-04T16:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062572891271487839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 28,
+          "id": "2022253175345143809",
+          "start": 14,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062572891271487839",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062400077788828049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@amber_digit2 @irisdesombres 净说大实话（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2062399511289340253",
+        "created_at": "2026-06-04T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062572891271487839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 28,
+              "id": "2022253175345143809",
+              "start": 14,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062572891271487839",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062400077788828049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 @irisdesombres 净说大实话（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062399511289340253",
+        "created_at": "2026-06-04T05:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062400077788828049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062400077788828049",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1025,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062399511289340253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "很多家长把孩子送进机构其实是为了报仇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 439,
+          "like_count": 13257,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1729
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 497,
+          "like_count": 1192,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "一起去往博爾蓋塞的神殿，這位穿過秦淮夜色而來的戀人@Diamond_Kokoro\n願恨意給予我們關懷彼此的勇氣@amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Diamond_Kokoro"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "amber_medusozoa"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "location": "agender | 經過反思的性別也不值得認同",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 145,
+          "like_count": 9277,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 5612
+        },
+        "username": "irisdesombres",
+        "verified": false
+      }
+    ]
+  }
+}

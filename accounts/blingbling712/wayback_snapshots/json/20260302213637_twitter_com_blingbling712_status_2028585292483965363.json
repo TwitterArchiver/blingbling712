@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2028510413214638466",
+    "created_at": "2026-03-02T21:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028585292483965363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028585292483965363",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028510413214638466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 至少友跨且没美利坚那么极端"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2028510407317508096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCa3d8tX0AALDxh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2028510413214638466",
+        "created_at": "2026-03-02T21:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028585292483965363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028585292483965363",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028510413214638466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 至少友跨且没美利坚那么极端"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028510407317508096"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2028510413214638466",
+        "created_at": "2026-03-02T16:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028510413214638466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHRfp4v3sj",
+              "end": 83,
+              "expanded_url": "https://x.com/NagiExpress/status/2028510413214638466/photo/1",
+              "media_key": "3_2028510407317508096",
+              "start": 60,
+              "url": "https://t.co/HHRfp4v3sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028510413214638466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 679,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑惑\n所以加拿大有什么好的\n一个个都要去\n城市规模不如马德里\n机票也贵不像欧洲那样天天乱飞\n冬天冷得要死\n还不如美国呢 https://t.co/HHRfp4v3sj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜无证含糖｜sub｜超大只不可爱｜中焦中抑｜不od｜185｜67kg｜同类互fo｜锦衣卫｜洛天依｜infp",
+        "id": "2024210421373444096",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 139,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2026386107185660033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026272829944049664/_cXHp81__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5195,
+          "following_count": 2249,
+          "like_count": 23513,
+          "listed_count": 7,
+          "media_count": 2024,
+          "tweet_count": 19871
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

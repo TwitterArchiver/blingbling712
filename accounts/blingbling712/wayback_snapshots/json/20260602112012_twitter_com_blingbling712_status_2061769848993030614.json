@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2061658632731742473",
+    "created_at": "2026-06-02T11:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061769848993030614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061769848993030614",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061658632731742473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@amber_digit2 节日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2061658629523099648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx7mbTX0AAhZZK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2061658632731742473",
+        "created_at": "2026-06-02T11:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061769848993030614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061769848993030614",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061658632731742473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@amber_digit2 节日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061658629523099648"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2061658632731742473",
+        "created_at": "2026-06-02T03:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061658632731742473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyQ5iHAOej",
+              "end": 66,
+              "expanded_url": "https://x.com/amber_digit2/status/2061658632731742473/photo/1",
+              "media_key": "3_2061658629523099648",
+              "start": 43,
+              "url": "https://t.co/tyQ5iHAOej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061658632731742473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4138,
+          "like_count": 163,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "other",
+        "text": "今天是国际性工作者日，希望所有性工作者身体健康、财源广进，有朝一日能不必再做性工作。 https://t.co/tyQ5iHAOej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 437,
+          "like_count": 13138,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1707
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2054414156925681820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 459,
+          "like_count": 881,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2061823186065404154",
+    "created_at": "2026-06-02T14:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061823186065404154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061823186065404154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061491972708462821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 衷告某些喜欢渲染“服用激素类药物损伤身体，活不过40岁”的反跨人士：\n\n抽烟、喝酒、嚼槟榔，只要你沾了任何一项，你就没资格嘲笑跨性别者“服用激素类药物损伤身体”。\n\n因为科学数据证明：以上这三项对身体的危害都要远远大于服用激素类药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2061823186065404154",
+        "created_at": "2026-06-02T14:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061823186065404154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061823186065404154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061491972708462821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 衷告某些喜欢渲染“服用激素类药物损伤身体，活不过40岁”的反跨人士：\n\n抽烟、喝酒、嚼槟榔，只要你沾了任何一项，你就没资格嘲笑跨性别者“服用激素类药物损伤身体”。\n\n因为科学数据证明：以上这三项对身体的危害都要远远大于服用激素类药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2061491972708462821",
+        "created_at": "2026-06-01T16:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061491972708462821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1817798938675859549",
+              "start": 117,
+              "url": "https://t.co/BRNWB7Z4ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491972708462821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15846,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 111,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817798938675859549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "衷告某些喜欢渲染“服用激素类药物损伤身体，活不过40岁”的反跨人士：\n\n抽烟、喝酒、嚼槟榔，只要你沾了任何一项，你就没资格嘲笑跨性别者“服用激素类药物损伤身体”。\n\n因为科学数据证明：以上这三项对身体的危害都要远远大于服用激素类药物 https://t.co/BRNWB7Z4ta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Toronto, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -79.4163,
+                  43.70011
+                ],
+                "type": "Point"
+              },
+              "locality": "Toronto",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 437,
+          "like_count": 13181,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1712
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41646,
+          "following_count": 3804,
+          "like_count": 1743,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2937
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

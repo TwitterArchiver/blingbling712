@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2047199944592019637",
+    "created_at": "2026-04-24T02:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047506406329446758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        },
+        {
+          "end": 28,
+          "id": "1424779836938022913",
+          "start": 15,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047506406329446758",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047505862974148611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 @amber_toffee od圈和跨圈不应该是个互相包含的关系，只能说有很大的重叠，但没必要搞对立吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2047199944592019637",
+        "created_at": "2026-04-24T02:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047506406329446758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 28,
+              "id": "1424779836938022913",
+              "start": 15,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047506406329446758",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047505862974148611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @amber_toffee od圈和跨圈不应该是个互相包含的关系，只能说有很大的重叠，但没必要搞对立吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2047199944592019637",
+        "created_at": "2026-04-24T02:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047505862974148611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 28,
+              "id": "1424779836938022913",
+              "start": 15,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047505862974148611",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不od，也不想让朋友od，对已经od的朋友也没什么意见。pr网禁我看着也不太舒服，虽然不至于立场鲜明的反网禁，但至少不会支持，大部份人应该也是差不多这个立场。但od圈一些人都打出“不od的就不是跨”的旗号了，多少有点招黑吧。od是一个缓解情绪的手段，但毕竟伤身体不值得提倡，直接把不od的开除跨籍太抽象了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047199944592019637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @amber_toffee 我不od，也不想让朋友od，对已经od的朋友也没什么意见。pr网禁我看着也不太舒服，虽然不至于立场鲜明的反网禁，但至少不会支持，大部份人应该也是差不多这个立场。但od圈一些人都打出“不od的就不是跨”的旗号了，多少有点招黑吧。od是一个缓解情绪的手段，但毕竟伤身体不值得提倡，直接把不od的开除跨籍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 309,
+          "like_count": 7592,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1115
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 375,
+          "like_count": 19510,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3291
+        },
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "长期受理性心理咨询服务，有意者私聊 \n☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ\n❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2047145196681302433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26109,
+          "following_count": 2803,
+          "like_count": 41558,
+          "listed_count": 14,
+          "media_count": 648,
+          "tweet_count": 22125
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}
