@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T12:34:08",
+  "last_updated": "2026-08-02T12:34:47",
   "html": {
     "https://web.archive.org/web/20260223175436if_/https://twitter.com/blingbling712/status/2025992702442049656": {
       "status": "done",
@@ -13023,9 +13023,9 @@
       "referenced_by": [
         "20260530114508_twitter_com_blingbling712_status_2060688958774825364.json"
       ],
-      "last_updated": "2026-08-02T11:32:22",
+      "last_updated": "2026-08-02T12:34:47",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530114508/https://video.twimg.com/tweet_video/HJkD9a-aoAI3h1l.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HJqJXBUbYAANxr0.mp4": {
       "status": "done",
