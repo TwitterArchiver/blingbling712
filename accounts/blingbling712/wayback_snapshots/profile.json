@@ -1,8 +1,8 @@
 {
   "name": "布林布林🍥",
   "username": "@blingbling712",
-  "bio": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her |最爱的💖@YeChuan1123｜姐姐！💕@rainchngshainn",
-  "location": "多伦多",
+  "bio": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+  "location": "叶川的身边",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 104,
-        "start": 92,
+        "end": 68,
+        "start": 56,
         "username": "YeChuan1123"
       },
       {
-        "end": 124,
-        "start": 109,
+        "end": 87,
+        "start": 72,
         "username": "rainchngshainn"
       }
     ]
