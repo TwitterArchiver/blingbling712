@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2090689104287555923",
+    "created_at": "2026-08-21T19:47:19.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090888498098458955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090888498098458955",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090689104287555923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit 图一呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090689100802093056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOeqQUW8AADyOR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090689100797911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOeqQTXIAAraU8.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2090689104287555923",
+        "created_at": "2026-08-21T19:47:19.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090888498098458955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090888498098458955",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090689104287555923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 图一呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090689100802093056",
+            "3_2090689100797911040"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2090689104287555923",
+        "created_at": "2026-08-21T06:35:00.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090689104287555923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdsUYR4EvQ",
+              "end": 57,
+              "expanded_url": "https://x.com/amber_digit/status/2090689104287555923/photo/1",
+              "media_key": "3_2090689100802093056",
+              "start": 34,
+              "url": "https://t.co/QdsUYR4EvQ"
+            },
+            {
+              "display_url": "pic.x.com/QdsUYR4EvQ",
+              "end": 57,
+              "expanded_url": "https://x.com/amber_digit/status/2090689104287555923/photo/1",
+              "media_key": "3_2090689100797911040",
+              "start": 34,
+              "url": "https://t.co/QdsUYR4EvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090689104287555923",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090689100802093056"
+          },
+          {
+            "media_key": "3_2090689100797911040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2763,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真诚地不理解劝我吃胖的人，请问图一图二哪个好看不是一目了然吗 https://t.co/QdsUYR4EvQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2090888498098458955",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 500,
+          "like_count": 15290,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1965
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "#mtf #ts #药娘 @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "mtf"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "ts"
+              },
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "is_identity_verified": false,
+        "location": "🇨🇦 Toronto・🚪$50",
+        "most_recent_tweet_id": "2090785830201667713",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2080121277818208764",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040565175514779648/1780258751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 372,
+          "like_count": 835,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

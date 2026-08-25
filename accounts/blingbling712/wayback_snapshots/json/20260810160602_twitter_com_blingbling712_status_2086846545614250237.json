@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2086830357249495248",
+    "created_at": "2026-08-10T16:06:02.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086846545614250237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530060423025655808",
+          "start": 0,
+          "username": "AyumiP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086846545614250237",
+    "in_reply_to_user_id": "1530060423025655808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086830357249495248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyumiP_Official 可能等家长死心了相信你永远不可能有后代之后，就会同意了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2086830357249495248",
+        "created_at": "2026-08-10T16:06:02.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086846545614250237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530060423025655808",
+              "start": 0,
+              "username": "AyumiP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846545614250237",
+        "in_reply_to_user_id": "1530060423025655808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086830357249495248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyumiP_Official 可能等家长死心了相信你永远不可能有后代之后，就会同意了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530060423025655808",
+        "conversation_id": "2086830357249495248",
+        "created_at": "2026-08-10T15:01:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086830357249495248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086830357249495248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说服家长让我术呢\n。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2086846545614250237",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 482,
+          "like_count": 14649,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-27T05:36:54.000Z",
+        "description": "沪 07 无证含糖 🏳️‍⚧️ 190天残党 /解离性身份识别障碍/真空花sys/2023.4 HRT/重抑/mixing engineer/guitarist/music producer",
+        "id": "1530060423025655808",
+        "is_identity_verified": false,
+        "location": "中国上海",
+        "most_recent_tweet_id": "2086830357249495248",
+        "name": "空空空空岛可乐🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530060423025655808/1750076971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038544052942180353/dwhVzgt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 329,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "AyumiP_Official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

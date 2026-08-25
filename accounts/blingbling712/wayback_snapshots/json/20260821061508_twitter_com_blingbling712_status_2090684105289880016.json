@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2090421129131274260",
+    "created_at": "2026-08-21T06:15:08.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090684105289880016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1957315200140345345",
+          "start": 0,
+          "username": "_Nana_Sparkle_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090684105289880016",
+    "in_reply_to_user_id": "1957315200140345345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090421129131274260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nana_Sparkle_ 呜抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2090421129131274260",
+        "created_at": "2026-08-21T06:15:08.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090684105289880016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1957315200140345345",
+              "start": 0,
+              "username": "_Nana_Sparkle_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090684105289880016",
+        "in_reply_to_user_id": "1957315200140345345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090421129131274260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nana_Sparkle_ 呜抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957315200140345345",
+        "conversation_id": "2090421129131274260",
+        "created_at": "2026-08-20T12:50:09.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090421129131274260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090421129131274260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的七夕节：\n被家里人毒鸡汤+道德绑架组合拳 还分三次早中晚\n抑郁到第二天早上无法入睡\n终于缓过来一点 刷了一下推 才知道昨天是七夕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2090684105289880016",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 500,
+          "like_count": 15242,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T05:34:51.000Z",
+        "description": "专业吃瓜群众|最爱的 @KathrynPurr|爱犬 @ChibaSaki2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "KathrynPurr"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ChibaSaki2"
+              }
+            ]
+          }
+        },
+        "id": "1957315200140345345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090508851124592958",
+        "name": "七分冰糖🍰🏳️‍⚧️",
+        "pinned_tweet_id": "2087669380003860937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957315200140345345/1776848412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046876667751108608/WPUoR5CL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 213,
+          "like_count": 761,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "_Nana_Sparkle_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

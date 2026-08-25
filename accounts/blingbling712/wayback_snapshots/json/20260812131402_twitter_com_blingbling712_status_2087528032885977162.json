@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2087528032885977162",
+    "created_at": "2026-08-12T13:14:02.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087528032885977162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zako_fries/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/zako_fries/status/2087471659645112486",
+          "start": 12,
+          "url": "https://t.co/8aBqEbunCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087528032885977162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087471659645112486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人有她的联系方式吗… https://t.co/8aBqEbunCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2087471652346957824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgwaGzWkAAJbrk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087471652263063552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgwaGfWcAATsda.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087471652284096512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgwaGkXYAA-TBK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2087528032885977162",
+        "created_at": "2026-08-12T13:14:02.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087528032885977162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zako_fries/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/zako_fries/status/2087471659645112486",
+              "start": 12,
+              "url": "https://t.co/8aBqEbunCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087528032885977162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087471659645112486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人有她的联系方式吗… https://t.co/8aBqEbunCO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087471652346957824",
+            "3_2087471652263063552",
+            "3_2087471652284096512"
+          ]
+        },
+        "author_id": "1407215903406706688",
+        "conversation_id": "2087471659645112486",
+        "created_at": "2026-08-12T09:30:01.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087471659645112486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IpDyIX8O2",
+              "end": 170,
+              "expanded_url": "https://x.com/Zako_Fries/status/2087471659645112486/photo/1",
+              "media_key": "3_2087471652346957824",
+              "start": 147,
+              "url": "https://t.co/6IpDyIX8O2"
+            },
+            {
+              "display_url": "pic.x.com/6IpDyIX8O2",
+              "end": 170,
+              "expanded_url": "https://x.com/Zako_Fries/status/2087471659645112486/photo/1",
+              "media_key": "3_2087471652263063552",
+              "start": 147,
+              "url": "https://t.co/6IpDyIX8O2"
+            },
+            {
+              "display_url": "pic.x.com/6IpDyIX8O2",
+              "end": 170,
+              "expanded_url": "https://x.com/Zako_Fries/status/2087471659645112486/photo/1",
+              "media_key": "3_2087471652284096512",
+              "start": 147,
+              "url": "https://t.co/6IpDyIX8O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087471659645112486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087471652346957824"
+          },
+          {
+            "media_key": "3_2087471652263063552"
+          },
+          {
+            "media_key": "3_2087471652284096512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 185,
+                "id": "25073877",
+                "start": 169,
+                "username": "realDonaldTrump"
+              },
+              {
+                "end": 297,
+                "id": "192272849",
+                "start": 285,
+                "username": "MarkJCarney"
+              },
+              {
+                "end": 552,
+                "id": "44196397",
+                "start": 543,
+                "username": "elonmusk"
+              },
+              {
+                "end": 693,
+                "id": "132984139",
+                "start": 682,
+                "username": "parkviewcc"
+              },
+              {
+                "end": 816,
+                "id": "1222650745901633536",
+                "start": 808,
+                "username": "chicago"
+              },
+              {
+                "end": 829,
+                "id": "500547979",
+                "start": 817,
+                "username": "Lockport_IL"
+              },
+              {
+                "end": 887,
+                "id": "20793816",
+                "start": 880,
+                "username": "amazon"
+              },
+              {
+                "end": 1116,
+                "id": "87515936",
+                "start": 1102,
+                "username": "UArizonaEller"
+              },
+              {
+                "end": 1241,
+                "id": "287688745",
+                "start": 1227,
+                "username": "NiagRegPolice"
+              },
+              {
+                "end": 1257,
+                "id": "892929107259924480",
+                "start": 1242,
+                "username": "NiagaraFallsPD"
+              }
+            ]
+          },
+          "text": "Rainbow bridge我又來了\n\n對不起，我先走一步，實在有點扛不住啦\n\n妳們要好好的哦\n\n貓貓豹豹團子提前看看那邊是什麼樣子的\n\n等多少年後，我來給大家案内新的世界\n\n真的很抱歉，說好了要多陪妳們走一段路的\n\n這次遊戲難度對我這種廢物，好像有點太難了\n\n大家都很棒的，只是貓貓團太菜了\n\n妳們最好了，這輩子能遇到妳們真的很幸福\n\n@realDonaldTrump Please promise me you will make a peaceful world if you would. I still have faith in our country.\n\n@MarkJCarney Greetings there, I was always thinking to spend a portion of my life in Canada, as my older cousin was born in Canada and I was so inspired when she talked about interesting things that happened in Canada back in my childhood with phone calls.\n\n@elonmusk Looking forward to the future Mars trip. I was hoping I would get a chance to see Mars by myself. Good luck out there in space.\n\n@parkviewcc Still want to do another community service in the church, but I will be serving by God’s side if he forgives me.\n\n@chicago @Lockport_IL Always proud to call Chicagoland as my hometown.\n\n@amazon Great insurance, by the way. If you can keep the single-case agreements with FFS surgeons, that would be great. And maybe higher starting paychecks for employees promoted from fulfillment centers and fresh grads.\n\n@UArizonaEller Wish I could finish my MBA program with you. It’s about halfway through, but yeah. Gonna stuck here forever.\n\n@NiagRegPolice @NiagaraFallsPD I am sorry for the problems caused.\n\n給父母，外婆還有其他家屬：我真的很希望成為可以讓你們驕傲的後代，但是作為跨性別我很抱歉，我始終找不到辦法去自洽與面對你們讓你們接受我的辦法。開始transition過程到現在我並不後悔這個決定，最後感謝你們把我帶來美國\n\nLastly, to my birthplace, Shanghai. It’s just glad I was born in one of the greatest cities in the world.\n\n後：因為實在是太怕疼了，用了三種不同的止疼藥和手邊僅有的一種安眠藥，希望可以減輕些痛苦吧……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1777,
+          "like_count": 3,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Rainbow bridge我又來了\n\n對不起，我先走一步，實在有點扛不住啦\n\n妳們要好好的哦\n\n貓貓豹豹團子提前看看那邊是什麼樣子的\n\n等多少年後，我來給大家案内新的世界\n\n真的很抱歉，說好了要多陪妳們走一段路的\n\n這次遊戲難度對我這種廢物，好像有點太難了\n\n大家都很棒的，只是貓貓團太菜了 https://t.co/6IpDyIX8O2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2087528032885977162",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 493,
+          "like_count": 14786,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 1892
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-22T05:57:05.000Z",
+        "description": "一隻姛貓貓糰子 但日常過於缺抱抱變成了海豹 需要海量的抱抱\n\n老婆 - @attack_steel 媽媽 - @ArtsSuraimu 姐姐 - @_Nana_Sparkle_\n\nWhere there's a will, there's a way",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "attack_steel"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "ArtsSuraimu"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "_Nana_Sparkle_"
+              }
+            ]
+          }
+        },
+        "id": "1407215903406706688",
+        "is_identity_verified": false,
+        "location": "🇺🇸🏳️‍⚧️",
+        "most_recent_tweet_id": "2087471659645112486",
+        "name": "☮️ZakoFries🍥",
+        "pinned_tweet_id": "2053295633378033756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407215903406706688/1624342804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960474406888804352/2GN4Zy-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 745,
+          "like_count": 5227,
+          "listed_count": 0,
+          "media_count": 613,
+          "tweet_count": 7096
+        },
+        "url": "",
+        "username": "Zako_Fries",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
