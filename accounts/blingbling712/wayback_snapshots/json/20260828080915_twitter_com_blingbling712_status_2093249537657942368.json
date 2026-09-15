@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2093044833485021242",
+    "created_at": "2026-08-28T08:09:15.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093249537657942368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986894257194737665",
+          "start": 0,
+          "username": "theOGschizoid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093249537657942368",
+    "in_reply_to_user_id": "1986894257194737665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093044833485021242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theOGschizoid 戒色是好的（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2093044833485021242",
+        "created_at": "2026-08-28T08:09:15.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093249537657942368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986894257194737665",
+              "start": 0,
+              "username": "theOGschizoid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093249537657942368",
+        "in_reply_to_user_id": "1986894257194737665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093044833485021242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theOGschizoid 戒色是好的（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986894257194737665",
+        "conversation_id": "2093044833485021242",
+        "created_at": "2026-08-27T18:35:49.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093044833485021242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093044833485021242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬家翻出日曆才發現上次做愛是四個月前了我擦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2093249537657942368",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 514,
+          "like_count": 15797,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 2021
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T20:31:38.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? \n(Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/mmP5Va7sfv",
+                "end": 23,
+                "expanded_url": "https://discord.gg/mmP5Va7sfv",
+                "start": 0,
+                "url": "https://t.co/kso1Sq8Kdv"
+              }
+            ]
+          }
+        },
+        "id": "1986894257194737665",
+        "is_identity_verified": false,
+        "location": "Le monologue du meurtre",
+        "most_recent_tweet_id": "2093183251602878890",
+        "name": "scorchingAsteRiA",
+        "pinned_tweet_id": "2076293461788053565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986894257194737665/1774850697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087306385100787712/ZsUI5GOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1133,
+          "like_count": 5055,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/kso1Sq8Kdv",
+        "username": "theOGschizoid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

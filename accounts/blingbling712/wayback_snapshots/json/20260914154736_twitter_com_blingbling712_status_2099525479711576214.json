@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099525277881700352",
+        "3_2099525272399761409",
+        "3_2099525274958274560"
+      ]
+    },
+    "author_id": "2024210421373444096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099525479711576214",
+    "created_at": "2026-09-14T15:47:36.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T16:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099525479711576214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwi9LhwHkg",
+          "end": 26,
+          "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+          "media_key": "3_2099525277881700352",
+          "start": 3,
+          "url": "https://t.co/zwi9LhwHkg"
+        },
+        {
+          "display_url": "pic.x.com/zwi9LhwHkg",
+          "end": 26,
+          "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+          "media_key": "3_2099525272399761409",
+          "start": 3,
+          "url": "https://t.co/zwi9LhwHkg"
+        },
+        {
+          "display_url": "pic.x.com/zwi9LhwHkg",
+          "end": 26,
+          "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+          "media_key": "3_2099525274958274560",
+          "start": 3,
+          "url": "https://t.co/zwi9LhwHkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099525479711576214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099525277881700352"
+      },
+      {
+        "media_key": "3_2099525272399761409"
+      },
+      {
+        "media_key": "3_2099525274958274560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘻嘻 https://t.co/zwi9LhwHkg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2099525277881700352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMDHdEXkAA7Ph6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2099525272399761409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMDHIpX0AEg5Fu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2099525274958274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSMDHSLXoAAk_l5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099525277881700352",
+            "3_2099525272399761409",
+            "3_2099525274958274560"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099525479711576214",
+        "created_at": "2026-09-14T15:47:36.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099525479711576214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwi9LhwHkg",
+              "end": 26,
+              "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+              "media_key": "3_2099525277881700352",
+              "start": 3,
+              "url": "https://t.co/zwi9LhwHkg"
+            },
+            {
+              "display_url": "pic.x.com/zwi9LhwHkg",
+              "end": 26,
+              "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+              "media_key": "3_2099525272399761409",
+              "start": 3,
+              "url": "https://t.co/zwi9LhwHkg"
+            },
+            {
+              "display_url": "pic.x.com/zwi9LhwHkg",
+              "end": 26,
+              "expanded_url": "https://x.com/blingbling712/status/2099525479711576214/photo/1",
+              "media_key": "3_2099525274958274560",
+              "start": 3,
+              "url": "https://t.co/zwi9LhwHkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099525479711576214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099525277881700352"
+          },
+          {
+            "media_key": "3_2099525272399761409"
+          },
+          {
+            "media_key": "3_2099525274958274560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻 https://t.co/zwi9LhwHkg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2099525479711576214",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 557,
+          "like_count": 16947,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 2144
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2095179561982173371",
+    "created_at": "2026-09-03T00:45:09.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T01:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095312106371555699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858186854526562304",
+          "start": 0,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095312106371555699",
+    "in_reply_to_user_id": "1858186854526562304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095179561982173371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyujijie 笑不活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2095179538624032768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROSsIxaMAApEPg.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2095179561982173371",
+        "created_at": "2026-09-03T00:45:09.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T01:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095312106371555699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095312106371555699",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095179561982173371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie 笑不活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095179538624032768"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "2095179561982173371",
+        "created_at": "2026-09-02T15:58:28.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095179561982173371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ggq79WEO2",
+              "end": 34,
+              "expanded_url": "https://x.com/meiyujijie/status/2095179561982173371/photo/1",
+              "media_key": "3_2095179538624032768",
+              "start": 11,
+              "url": "https://t.co/9Ggq79WEO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095179561982173371",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095179538624032768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3069,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自己笑了半天才发出去 https://t.co/9Ggq79WEO2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2095312106371555699",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 534,
+          "like_count": 16162,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 2069
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095179561982173371",
+        "name": "何一味",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858186854526562304/1739373925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004432853254524931/PltAt9t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88640,
+          "following_count": 175,
+          "like_count": 1672,
+          "listed_count": 195,
+          "media_count": 449,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "meiyujijie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

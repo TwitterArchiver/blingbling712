@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2092672637810172352",
+    "created_at": "2026-08-26T19:47:50.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092700568401981535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092700568401981535",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092672637810172352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 😧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092672626930098176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqqqq9aIAAfYn_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2092672637810172352",
+        "created_at": "2026-08-26T19:47:50.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092700568401981535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092700568401981535",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092672637810172352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 😧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092672626930098176"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092672637810172352",
+        "created_at": "2026-08-26T17:56:51.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092672637810172352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRVRVh19pb",
+              "end": 54,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2092672637810172352/photo/1",
+              "media_key": "3_2092672626930098176",
+              "start": 31,
+              "url": "https://t.co/IRVRVh19pb"
+            },
+            {
+              "display_url": "x.com/ayanami_rin0/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/ayanami_rin0/status/2092267273595830569",
+              "start": 55,
+              "url": "https://t.co/biLwWwVMBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092672637810172352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092672626930098176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092267273595830569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真喷火了……红色的蝴蝶…\n这个酸爽，我不好描述，m来了都得哭 https://t.co/IRVRVh19pb https://t.co/biLwWwVMBa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2092700568401981535",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 508,
+          "like_count": 15668,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "超绝可爱牢绫🌸某二次元公司🦋996研发社畜(♯｀∧´)\n只管开心,无需正常\n 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n宝宝：@mario_2333\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 104,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "aynm吃什么"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L29Rl"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "is_identity_verified": false,
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "most_recent_tweet_id": "2092680138526007555",
+        "name": "涟漪aynm🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597605170502062080/1743792315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5239,
+          "following_count": 1087,
+          "like_count": 20258,
+          "listed_count": 17,
+          "media_count": 1895,
+          "tweet_count": 12642
+        },
+        "url": "https://t.co/scHs3L29Rl",
+        "username": "Ayanami_rin0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2096139926504898624",
+    "created_at": "2026-09-05T07:34:37.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096139926504898624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amatsukiqwq/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/amatsukiqwq/status/2096131748522574000",
+          "start": 12,
+          "url": "https://t.co/0HIVLSMo2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096139926504898624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096131748522574000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想被按在床上打桩…🥺 https://t.co/0HIVLSMo2m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2096139926504898624",
+        "created_at": "2026-09-05T07:34:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096139926504898624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amatsukiqwq/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/amatsukiqwq/status/2096131748522574000",
+              "start": 12,
+              "url": "https://t.co/0HIVLSMo2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096139926504898624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096131748522574000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想被按在床上打桩…🥺 https://t.co/0HIVLSMo2m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035527946354716672",
+        "conversation_id": "2096131748522574000",
+        "created_at": "2026-09-05T07:02:07.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096131748522574000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2095719529888252097",
+              "start": 12,
+              "url": "https://t.co/4Sw7XSqJw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096131748522574000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095719529888252097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想被按在床上打桩…🥺 https://t.co/4Sw7XSqJw0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2096139926504898624",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 538,
+          "like_count": 16363,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 2097
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️mtf🍥hrt中｜正體中文/简体中文/日本語｜自由主義｜INFP｜プロセカ\n總之大家可以來找我聊天交朋友\n互foにゃー",
+        "id": "2035527946354716672",
+        "is_identity_verified": false,
+        "location": "重慶",
+        "most_recent_tweet_id": "2096131748522574000",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035527946354716672/1782924399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 1060,
+          "like_count": 12391,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "Amatsukiqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

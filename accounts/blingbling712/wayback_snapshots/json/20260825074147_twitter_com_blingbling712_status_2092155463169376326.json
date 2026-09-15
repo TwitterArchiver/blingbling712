@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2092136125775413562",
+    "created_at": "2026-08-25T07:41:47.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092155463169376326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899508885389729792",
+          "start": 0,
+          "username": "HuanChen168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092155463169376326",
+    "in_reply_to_user_id": "1899508885389729792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092136125775413562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuanChen168 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092136114647891969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjCti9agAEVGjK.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2092136125775413562",
+        "created_at": "2026-08-25T07:41:47.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092155463169376326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899508885389729792",
+              "start": 0,
+              "username": "HuanChen168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092155463169376326",
+        "in_reply_to_user_id": "1899508885389729792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092136125775413562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuanChen168 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092136114647891969"
+          ]
+        },
+        "author_id": "1899508885389729792",
+        "conversation_id": "2092136125775413562",
+        "created_at": "2026-08-25T06:24:57.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092136125775413562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSJXoQuDCt",
+              "end": 35,
+              "expanded_url": "https://x.com/HuanChen168/status/2092136125775413562/photo/1",
+              "media_key": "3_2092136114647891969",
+              "start": 12,
+              "url": "https://t.co/cSJXoQuDCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092136125775413562",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092136114647891969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我现在还塞着小玩具 https://t.co/cSJXoQuDCt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2092155463169376326",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 505,
+          "like_count": 15562,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1985
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-11T17:13:29.000Z",
+        "description": "我很神秘O_o不含糖.168.不要在意性别",
+        "id": "1899508885389729792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092136125775413562",
+        "name": "小狐狸幻辰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899508885389729792/1776001772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089953550633943041/qbD7cHd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "HuanChen168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

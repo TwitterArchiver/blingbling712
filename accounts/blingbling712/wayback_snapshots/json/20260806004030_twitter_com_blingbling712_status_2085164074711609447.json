@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2085159646055243784",
+    "created_at": "2026-08-06T00:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085164074711609447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085164074711609447",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085159646055243784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeChuan1123 从这个角度来看我好像复读机（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085159635389190144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_5pAdbEAAuzVu.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2085159646055243784",
+        "created_at": "2026-08-06T00:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085164074711609447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085164074711609447",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085159646055243784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan1123 从这个角度来看我好像复读机（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085159635389190144"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "conversation_id": "2085159646055243784",
+        "created_at": "2026-08-06T00:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085159646055243784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ai9fHKePaq",
+              "end": 37,
+              "expanded_url": "https://x.com/YeChuan1123/status/2085159646055243784/photo/1",
+              "media_key": "3_2085159635389190144",
+              "start": 14,
+              "url": "https://t.co/ai9fHKePaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085159646055243784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂吗 有人懂吗呵呵呵呵 https://t.co/ai9fHKePaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rainchngshainn"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 459,
+          "like_count": 14369,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT🇨🇦 同类互fo🏳️‍⚧️MTF 中文/Eng/日本語\n🎀Love mizuki & Sylveon🎀\n超级碎碎念…精神不好/重抑/自毁倾向/病娇/永远的罪人\n*💝此生唯一的挚爱！伴侣: @blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "布林的怀里",
+        "name": "YeChuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076302592901001216/YAdpUpUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 378,
+          "like_count": 1861,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true
+      }
+    ]
+  }
+}

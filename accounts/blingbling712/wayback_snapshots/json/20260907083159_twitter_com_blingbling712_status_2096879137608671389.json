@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2096832971181547911",
+    "created_at": "2026-09-07T08:31:59.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096879137608671389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608684841729667073",
+          "start": 0,
+          "username": "tongzikin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096879137608671389",
+    "in_reply_to_user_id": "1608684841729667073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096832971181547911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@tongzikin 结束只会给在意你的人留下永远都无法弥补的遗憾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2096832971181547911",
+        "created_at": "2026-09-07T08:31:59.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096879137608671389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608684841729667073",
+              "start": 0,
+              "username": "tongzikin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096879137608671389",
+        "in_reply_to_user_id": "1608684841729667073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096832971181547911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tongzikin 结束只会给在意你的人留下永远都无法弥补的遗憾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608684841729667073",
+        "conversation_id": "2096832971181547911",
+        "created_at": "2026-09-07T05:28:32.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096832971181547911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tongzikin/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/tongzikin/status/2096832869327147039",
+              "start": 58,
+              "url": "https://t.co/laE7ip3m9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096832971181547911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096832869327147039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不知道会不会有用到的那一天\n\n很希望能多陪陪重要的人，但又很清楚我现在的状态会让在意我的人都很累，所以很想结束掉。 https://t.co/laE7ip3m9g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2096879137608671389",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 540,
+          "like_count": 16422,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me / 🏳️‍⚧️ She|They / 臭学文科的\n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / 🐧 @Silent121_5 / 🌸 @Miaaaaaaama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "misaka1057"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Miaaaaaaama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRyODw"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "is_identity_verified": false,
+        "location": "Edmonton / Vancouver / Beijing",
+        "most_recent_tweet_id": "2096835445284126933",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2081796052462780489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608684841729667073/1675000942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080480264237842433/HA-o9WGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 2118,
+          "like_count": 30769,
+          "listed_count": 5,
+          "media_count": 1203,
+          "tweet_count": 4366
+        },
+        "url": "https://t.co/JbvqgRyODw",
+        "username": "tongzikin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
