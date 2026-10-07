@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2103859939114627483",
+    "created_at": "2026-09-26T14:51:11.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103859939114627483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aequoia1/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/aequoia1/status/2103730346634490297",
+          "start": 39,
+          "url": "https://t.co/JBxhoDIOcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103859939114627483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103730346634490297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出柜前：不要整天娘娘腔的\n出柜后：小时候蛮阳刚的一个男孩子，之前也没有迹象啊 https://t.co/JBxhoDIOcz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2103730337113427968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHzmHbb0AA0QsH.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2103859939114627483",
+        "created_at": "2026-09-26T14:51:11.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103859939114627483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aequoia1/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/aequoia1/status/2103730346634490297",
+              "start": 39,
+              "url": "https://t.co/JBxhoDIOcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103859939114627483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103730346634490297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出柜前：不要整天娘娘腔的\n出柜后：小时候蛮阳刚的一个男孩子，之前也没有迹象啊 https://t.co/JBxhoDIOcz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103730337113427968"
+          ]
+        },
+        "author_id": "1459356998097850370",
+        "conversation_id": "2103730346634490297",
+        "created_at": "2026-09-26T06:16:14.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103730346634490297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2KWpLp45U",
+              "end": 48,
+              "expanded_url": "https://x.com/Aequoia1/status/2103730346634490297/photo/1",
+              "media_key": "3_2103730337113427968",
+              "start": 25,
+              "url": "https://t.co/F2KWpLp45U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103730346634490297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103730337113427968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 12712,
+          "like_count": 365,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "超酷的好吧，谁不想十岁的时候变得超级无敌阳刚硬汉 https://t.co/F2KWpLp45U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2103859939114627483",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 578,
+          "like_count": 17827,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 2191
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103730777473364371",
+        "name": "Ich1noseyukI🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459356998097850370/1787154007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 559,
+          "like_count": 6749,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1342
+        },
+        "url": "",
+        "username": "Aequoia1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

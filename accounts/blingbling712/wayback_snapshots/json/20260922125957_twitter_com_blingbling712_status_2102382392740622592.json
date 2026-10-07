@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2102028760208019760",
+    "created_at": "2026-09-22T12:59:57.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T13:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102382392740622592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102382392740622592",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102028760208019760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 嘎巴一下死那了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2102028725735038976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvn_TEaoAAdY0Z.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028733939175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvn_xob0AAjloZ.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028743091056640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvoATuacAAdFn7.jpg",
+        "width": 1224
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2102028752381423616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvoA2VaMAAWz1E.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2102028760208019760",
+        "created_at": "2026-09-22T12:59:57.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102382392740622592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102382392740622592",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102028760208019760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 嘎巴一下死那了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102028725735038976",
+            "3_2102028733939175424",
+            "3_2102028743091056640",
+            "3_2102028752381423616"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2102028760208019760",
+        "created_at": "2026-09-21T13:34:44.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102028760208019760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028725735038976",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028733939175424",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028743091056640",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            },
+            {
+              "display_url": "pic.x.com/vEoFh9wjMW",
+              "end": 34,
+              "expanded_url": "https://x.com/xian_zi17640/status/2102028760208019760/photo/1",
+              "media_key": "3_2102028752381423616",
+              "start": 11,
+              "url": "https://t.co/vEoFh9wjMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102028760208019760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102028725735038976"
+          },
+          {
+            "media_key": "3_2102028733939175424"
+          },
+          {
+            "media_key": "3_2102028743091056640"
+          },
+          {
+            "media_key": "3_2102028752381423616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 228853,
+          "like_count": 774,
+          "quote_count": 21,
+          "reply_count": 115,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "在q群看到的好想笑喵 https://t.co/vEoFh9wjMW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2102382392740622592",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 565,
+          "like_count": 17476,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "一个跨还很悲苦的咪/173 60大药娘/生产日期2011.12.09/HRT2026.7.25/https://t.co/DLilEeCWrw好哥哥@LinQi_AWA/姐姐@nekotanko_shiro/弟弟？/涩妹妹@littletaomiao/怕疼/小洁癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "LinQi_AWA"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "nekotanko_shiro"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "littletaomiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huimi2/",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huimi2/",
+                "start": 48,
+                "url": "https://t.co/DLilEeCWrw"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102380099622543861",
+        "name": "huizxlkファイ🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878441068649426944/1779914618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 682,
+          "like_count": 4708,
+          "listed_count": 4,
+          "media_count": 1522,
+          "tweet_count": 4672
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

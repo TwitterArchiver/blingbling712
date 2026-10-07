@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2105574492118642953",
+    "created_at": "2026-10-01T19:12:24.000Z",
+    "display_text_range": [
+      24,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105737612661268663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999780042759602176",
+          "start": 0,
+          "username": "ccx1588418"
+        },
+        {
+          "end": 23,
+          "id": "1510447851507261445",
+          "start": 12,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105737612661268663",
+    "in_reply_to_user_id": "1999780042759602176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105574492118642953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccx1588418 @LanziiLove 我不得劲…😭我06的我完蛋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105574479489552384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiA1VIaUAAH2Zv.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105574479472754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiA1VEaAAA3Y2e.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2105574492118642953",
+        "created_at": "2026-10-01T19:12:24.000Z",
+        "display_text_range": [
+          24,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105737612661268663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999780042759602176",
+              "start": 0,
+              "username": "ccx1588418"
+            },
+            {
+              "end": 23,
+              "id": "1510447851507261445",
+              "start": 12,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105737612661268663",
+        "in_reply_to_user_id": "1999780042759602176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105574492118642953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccx1588418 @LanziiLove 我不得劲…😭我06的我完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105574479489552384",
+            "3_2105574479472754688"
+          ]
+        },
+        "author_id": "1999780042759602176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105574492118642953",
+        "created_at": "2026-10-01T08:24:13.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105574492118642953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1510447851507261445",
+              "start": 79,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nR3TRxC5Dg",
+              "end": 114,
+              "expanded_url": "https://x.com/ccx1588418/status/2105574492118642953/photo/1",
+              "media_key": "3_2105574479489552384",
+              "start": 91,
+              "url": "https://t.co/nR3TRxC5Dg"
+            },
+            {
+              "display_url": "pic.x.com/nR3TRxC5Dg",
+              "end": 114,
+              "expanded_url": "https://x.com/ccx1588418/status/2105574492118642953/photo/1",
+              "media_key": "3_2105574479472754688",
+              "start": 91,
+              "url": "https://t.co/nR3TRxC5Dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105574492118642953",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105574479489552384"
+          },
+          {
+            "media_key": "3_2105574479472754688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1041,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她大概从她hrt就开始看了，最开始以为永远和srs无缘，到后面越来越pass，甚至确定了srs时间，母亲还支持，真的羡慕了。我像只偷窥他人幸福的老鼠😭😭😭😭 @LanziiLove https://t.co/nR3TRxC5Dg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2105737612661268663",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 577,
+          "like_count": 18082,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T09:54:57.000Z",
+        "description": "沃尔玛塑料袋\n...",
+        "id": "1999780042759602176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105585942727934337",
+        "name": "010110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999780042759602176/1778856638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064377492413222912/NR4Jwv79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 110,
+          "like_count": 3616,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "ccx1588418",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "MTF 05｜男友@dexy0306｜能和你交朋友很开心｜HRT 2026.3.1｜SRS 2027.2.13｜SRS日记 https://t.co/kPiH5nVXCL｜成都 欢迎找我粗来玩🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 85,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 62,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2105633582341582921",
+        "name": "DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1790687225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104920851422543872/URCi-NFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31214,
+          "following_count": 1649,
+          "like_count": 4041,
+          "listed_count": 90,
+          "media_count": 578,
+          "tweet_count": 3629
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2024210421373444096",
+    "conversation_id": "2102151318479810777",
+    "created_at": "2026-09-21T23:18:42.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T00:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102175719652569097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603232668744761345",
+          "start": 0,
+          "username": "orugannokasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102175719652569097",
+    "in_reply_to_user_id": "1603232668744761345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102151318479810777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orugannokasa 好权威"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2102151310061776897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxXepRasAEJUXR.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2102151318479810777",
+        "created_at": "2026-09-21T23:18:42.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102175719652569097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603232668744761345",
+              "start": 0,
+              "username": "orugannokasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102175719652569097",
+        "in_reply_to_user_id": "1603232668744761345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102151318479810777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orugannokasa 好权威"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102151310061776897"
+          ]
+        },
+        "author_id": "1603232668744761345",
+        "conversation_id": "2102151318479810777",
+        "created_at": "2026-09-21T21:41:45.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102151318479810777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "药娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oBg40VZMQ",
+              "end": 59,
+              "expanded_url": "https://x.com/orugannokasa/status/2102151318479810777/photo/1",
+              "media_key": "3_2102151310061776897",
+              "start": 36,
+              "url": "https://t.co/0oBg40VZMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102151318479810777",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102151310061776897"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于知道xyn为什么喜欢狼尾鲻鱼头了\n还是长发好看诶🥰🥰#药娘 #男娘 https://t.co/0oBg40VZMQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥🏳️‍⚧️｜hrt26.02.07｜超大只不可爱｜负面情绪｜sub｜锦依卫｜she/her \n永远且唯一的爱人 @YeChuan1123\n姐姐！@rainchngshainn\n小17！@danshuishuimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "danshuishuimu"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "is_identity_verified": false,
+        "location": "叶川的身边",
+        "most_recent_tweet_id": "2102175719652569097",
+        "name": "布林布林🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024210421373444096/1772925354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 564,
+          "like_count": 17434,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 2169
+        },
+        "url": "",
+        "username": "blingbling712",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁xyn，偶尔割手手手，但不od\n大证含糖，身高体重保密喵～\n同类无门槛w ，互fo一定一定要踢我\n永远的好妹妹 @MiaoJiang080923\n妹妹@WuYueMeow\n坐标无锡（居住），淮安（上学）有避难所在淮安，欢迎需要的跨女私信咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "WuYueMeow"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "is_identity_verified": false,
+        "location": "苏南",
+        "most_recent_tweet_id": "2102151318479810777",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "pinned_tweet_id": "1986349454828691653",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603232668744761345/1740153923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102152810150395904/W1G5FSYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 169,
+          "like_count": 4029,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "orugannokasa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
